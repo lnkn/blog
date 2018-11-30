@@ -37,5 +37,11 @@ module.exports = {
         name: "pages",
       },
     },
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        typekit: { id: 'hod1abd' }
+      }
+    }
   ],
 }
