@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Myblog - reactgo',
+    title: 'Perfectly Salted',
     siteUrl: 'https://reactgo.com',
   },
   plugins: [
