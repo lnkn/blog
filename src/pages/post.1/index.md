@@ -3,6 +3,9 @@ title: Peach Ricotta Pastries
 description : A delicious apple crisp recipe
 date: '2018-08-26'
 image: time.jpg
+image2:
+image3:
+image-candid:
 ---
 
 # Apple Crisp

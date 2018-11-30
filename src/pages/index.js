@@ -7,31 +7,30 @@ import Img from 'gatsby-image';
 const IndexPage = (props) => {
   const postList = props.data.allMarkdownRemark;
   return (
-    <Layout>
-        {postList.edges.map(({ node }, i) => (
-          <Link to={node.fields.slug} key={i} className="post-list"
-         >
-              {/* <img src={node.fontmatter.image.childImgage.sharp}></img> */}
-              {/* <Img fluid={node.frontmatter.image.childImageSharp.fluid} /> */}
-              <div className="post-list__text">
-                <h1>{node.frontmatter.title}</h1>
-                {/* <span>{node.frontmatter.date}</span> */}
-                {/* <p>{node.excerpt}</p> */}
-                <span className="readmore">Make your own! →</span>
-              </div>
-              <Img fluid={node.frontmatter.image.childImageSharp.fluid} 
-                style={{
-                  position: "absolute",
-                  left: 0,
-                  top: 0,
-                  width: "100%",
-                  height: "100%"
-                }}
-                />
-          </Link>
-
-        ))}
-    </Layout>
+      <Layout>
+          {postList.edges.map(({ node }, i) => (
+            <Link to={node.fields.slug} key={i} className="post-list"
+          >
+                {/* <img src={node.fontmatter.image.childImgage.sharp}></img> */}
+                {/* <Img fluid={node.frontmatter.image.childImageSharp.fluid} /> */}
+                <div className="post-list__text">
+                  <h1>{node.frontmatter.title}</h1>
+                  {/* <span>{node.frontmatter.date}</span> */}
+                  {/* <p>{node.excerpt}</p> */}
+                  <span className="readmore">Make your own! →</span>
+                </div>
+                <Img fluid={node.frontmatter.image.childImageSharp.fluid} 
+                  style={{
+                    position: "absolute",
+                    left: 0,
+                    top: 0,
+                    width: "100%",
+                    height: "100%"
+                  }}
+                  />
+            </Link>
+          ))}
+      </Layout>
   )
 }
 
