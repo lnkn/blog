@@ -1,7 +1,7 @@
 ---
-title: Apple Crisp
+title: Chocolate Chip Cookies
 description : A delicious apple crisp recipe
-date: '2018-09-26'
+date: '2018-06-26'
 image: time.jpg
 ---
 

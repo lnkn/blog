@@ -1,13 +1,11 @@
 ---
-title: Apple Crisp
+title: Peanut Butter Cookies
 description : A delicious apple crisp recipe
 date: '2018-09-26'
 image: cookie1.jpg
 ---
 
-# Apple Crisp
-
-*This apple crisp was such a hit at two Thanksgiving dinners this past week! The top of the crisp is so deliciously full of oats and is the perfect ratio to apple. You’ll want to add this to the holiday baking list!*
+This apple crisp was such a hit at two Thanksgiving dinners this past week! The top of the crisp is so deliciously full of oats and is the perfect ratio to apple. You’ll want to add this to the holiday baking list!
 
 ## Ingredients:
 - 4 **Honeycrisp apples**

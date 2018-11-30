@@ -1,7 +1,7 @@
 ---
-title: Apple Crisp
+title: So Soft! SO GOOD!
 description : A delicious apple crisp recipe
-date: '2018-09-26'
+date: '2018-07-26'
 image: time.jpg
 ---
 
