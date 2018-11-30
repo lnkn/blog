@@ -634,7 +634,7 @@ pre tt:after {
 .wrapper {
   z-index: 10;
   position: relative;
-  padding: 3em 0 ;
+  padding: 3em 1em ;
 }
 .post-list-wrapper__many{
   display: grid;
@@ -750,7 +750,7 @@ pre tt:after {
     grid-template-columns: repeat(2, 1fr);
   }
   .post-list-wrapper__one, .post-list-wrapper__many{
-    margin:inherit 20px;
+    margin:0 20px;
   }
 }
 
@@ -759,7 +759,7 @@ pre tt:after {
     grid-template-columns: repeat(2, 1fr);
   }
   .post-list-wrapper__one, .post-list-wrapper__many{
-    margin:inherit 60px;
+    margin:0 60px;
   }
 }
 
@@ -768,6 +768,6 @@ pre tt:after {
     grid-template-columns: repeat(1, 1fr);
   }
   .post-list-wrapper__one, .post-list-wrapper__many{
-    margin:inherit 20px;
+    margin:0 20px;
   }
 }
