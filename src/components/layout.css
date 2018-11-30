@@ -627,14 +627,15 @@ pre tt:after {
 .topbar{
   background:white;
   margin-bottom:2rem;
+  padding:20px;
   
 }
 
 .post-list-wrapper__many{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-column-gap: 1em;
-  grid-row-gap: 1em;
+  grid-column-gap: 2.2em;
+  grid-row-gap: 2.2em;
   grid-auto-rows:minmax(460px, auto);
   max-width: 1200px;
   margin:0 auto;
@@ -648,6 +649,11 @@ pre tt:after {
   margin: 0 auto;
   display: block;
   text-align: center;
+  color: #333;
+  font-size: 32px;
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: -1.4px;
 }
 
 @media (min-width: 1281px) {
@@ -669,29 +675,20 @@ pre tt:after {
   }
 }
 
-@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .post-list-wrapper__many{
     grid-template-columns: repeat(2, 1fr);
   }
   .post-list-wrapper__one, .post-list-wrapper__many{
+    margin:0 60px;
+  }
+}
+
+@media (max-width: 767px) {
+  .post-list-wrapper__many{
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .post-list-wrapper__one, .post-list-wrapper__many{
     margin:0 20px;
-  }
-}
-
-@media (min-width: 481px) and (max-width: 767px) {
-  .post-list-wrapper__many{
-    grid-template-columns: repeat(1, 1fr);
-  }
-  .post-list-wrapper__one, .post-list-wrapper__many{
-    margin:0 80px;
-  }
-}
-
-@media (min-width: 320px) and (max-width: 480px) {
-  .post-list-wrapper__many{
-    grid-template-columns: repeat(1, 1fr);
-  }
-  .post-list-wrapper__one, .post-list-wrapper__many{
-    margin:0 10px;
   }
 }
