@@ -18,6 +18,8 @@ lead: A complete "how-to" for acheiving the perfect peanut butter cookie.
 - 1 cup all-purpose **flour**
 - 1 teaspoon **granulated sugar**
 - 2 teaspoons ground **cinnamon**
+- vanilla
+- sprinkles
 
 ## Instructions:
 
