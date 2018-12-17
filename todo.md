@@ -12,8 +12,8 @@ TODO: add back-button on blog posts
 TODO: add recipe content
 _________________________________________
 
-TODO: make how-to git guide.
-TODO: include markdown cheatsheet
+<!-- TODO: make how-to git guide. -->
+<!-- TODO: include markdown cheatsheet -->
 _________________________________________
 
 BRAND
