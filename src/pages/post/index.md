@@ -25,6 +25,7 @@ lead: A complete "how-to" for acheiving the perfect peanut butter cookie.
 
 Preheat oven to 350°F. Slice the apples into ¼ cm and add to a 13”x9” glass pan. Sprinkle the cinnamon and the granulated sugar on top of the apples and mix together. Then make sure the apples are evenly spread out.
 
+![](time.jpg)
 
 In a large bowl, add butter, brown sugar, oats and flour into bowl.  Use a fork to cut the butter in the flour mixture (or your hands!) and combine, making sure all the butter is crumbly and small. Then, add crumble mixture to the top of the apples and flatten down the mixture. 
 
