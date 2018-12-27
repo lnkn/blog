@@ -14,17 +14,6 @@ lead: Ginger Cookies should be Soft. Period.
 
 ## What you'll need:
 
-- 1 cup **granulated sugar**
-- 6 tablespoons of **unsalted butter**
-- ½ cup heavy **whipping cream**
-- 1 teaspoon **salt**
-- 1 cup natural creamy **peanut butter**
-- 6 cups of **rice Krispies**
-- 3 ½ cups **semisweet chocolate chips**
-- 1 tablespoon **vegetable oil**
-- Flaky **sea salt** (optional)
-
-
 - 1 cup **unsalted butter**, softened
 - ½ cup **granulated sugar**, divided
 - ¾ cup **light brown sugar**
