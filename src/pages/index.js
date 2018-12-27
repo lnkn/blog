@@ -2,11 +2,14 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 import './post.css';
 import Layout from '../components/layout'
+import Home from '../components/Home'
 import Img from 'gatsby-image';
 
 const IndexPage = (props) => {
   const postList = props.data.allMarkdownRemark;
   return (
+    <div>
+    <Home></Home>
       <Layout>
           {postList.edges.map(({ node }, i) => (
             <Link to={node.fields.slug} key={i} className="post-list"
@@ -31,6 +34,7 @@ const IndexPage = (props) => {
             </Link>
           ))}
       </Layout>
+      </div>
   )
 }
 
