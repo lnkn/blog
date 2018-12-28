@@ -8,7 +8,9 @@ lead: These bars make for such a great holiday treat and you will be reaching fo
 
 #### Prep Time: 30 min | Cool time: 1 hr | Total time: 1 hr & 30 min
 
-*Salted Caramel Scotcheroos coming your way! These bars make for such a great holiday treat and you will be reaching for your second scotcheroo in no time. Yields: 24 bars *
+**Salted Caramel Scotcheroos coming your way! These bars make for such a great holiday treat and you will be reaching for your second scotcheroo in no time.**
+
+**Yields: 24 bars**  
 
 ## What you'll need:
 
