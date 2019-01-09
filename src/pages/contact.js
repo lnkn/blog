@@ -15,11 +15,15 @@ const Contact = () => (
           <span class="label">Name</span>
           <span class="border"></span>
         </label>
+        <br/>
+        <br/>
         <label class="inp">
           <input type="email" id="inp" name="email" placeholder="&nbsp;" />
           <span class="label">Email</span>
           <span class="border"></span>
         </label>
+        <br/>
+        <br/>
         <label class="inp">
           <input type="email" id="inp" name="Message" placeholder="&nbsp;" />
           <span class="label">Message</span>
@@ -27,10 +31,9 @@ const Contact = () => (
         </label>
         <p>
           <br/>
-          <button type="submit">Send</button>
+          <button type="submit">Send to Zoe</button>
         </p>
       </form>
-      <Link to="/">Go back to the homepage</Link>
     </div>
   </Layout>
 )
