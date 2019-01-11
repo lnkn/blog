@@ -1,7 +1,7 @@
 ---
 title: Thumbprint Cookies
-description : H•	My favorite part of the holiday season is baking and time with friends & family. These Peanut Butter Blossoms are always a must each December, too! Do you have a favorite holiday tradition? 
-date: '2018-09-26'
+description : My favorite part of the holiday season is baking and time with friends & family. These Peanut Butter Blossoms are always a must each December, too! Do you have a favorite holiday tradition?
+date: '2018-10-4'
 image: Funfetti_1.jpg
 lead: Sprinkles of joy are just ahead.
 ---
