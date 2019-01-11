@@ -20,7 +20,7 @@ const IndexPage = (props) => {
                   <h1>{node.frontmatter.title}</h1>
                   {/* <span>{node.frontmatter.date}</span> */}
                   {/* <p>{node.excerpt}</p> */}
-                  <span className="readmore">Make your own! →</span>
+                  <span className="readmore">Read More →</span>
                 </div>
                 <Img fluid={node.frontmatter.image.childImageSharp.fluid} 
                   style={{

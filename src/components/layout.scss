@@ -705,6 +705,7 @@ pre tt:after {
       transition: all 100ms;
       text-decoration: none;
       color: #333;
+      padding: 0 10px;
       &:hover{
         text-decoration: line-through;
         color: #c5b3a2;
@@ -741,7 +742,7 @@ pre tt:after {
 }
 .home{
   text-align: center;
-  padding: 5em 0 2em;
+  padding: 1em 0 2em;
   grid-column: auto/span 3;
   grid-auto-rows:minmax(auto, auto);
   h1{font-size:80px;}
@@ -790,6 +791,33 @@ pre tt:after {
       
     }
     &.contact{
+      button{
+        user-select: none;
+        position: absolute;
+        bottom: 8rem;
+        left: 50%;
+        margin: 0 auto;
+        padding: .4rem 1.4rem .4rem;
+        
+        font-size: 1.2rem;
+        text-align: center;
+        letter-spacing: 0.05em;
+        line-height: 1;
+        background-color: #fff;
+        border-radius: 1.5rem;
+        -webkit-transform: translateX(-50%);
+        transform: translateX(-50%);
+        transition: all 0.2s ease;
+        font-family: futura-pt, sans-serif;
+        font-weight: 300;
+        text-transform: uppercase;
+        
+        &:hover{
+          background-color: blue;
+          color: white;
+          cursor: pointer;
+        }
+          }
       .inp {
         position: relative;
         margin: auto;
