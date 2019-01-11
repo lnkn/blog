@@ -3,8 +3,8 @@ import React from 'react'
 
 const Home = () => (
   <div className="home">
-    <div>
-        
+    <div> 
+       <h2> Dare to get a little salty...</h2> 
     </div>
   </div>
 )
