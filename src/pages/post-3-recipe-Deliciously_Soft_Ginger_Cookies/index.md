@@ -1,7 +1,7 @@
 ---
 title: Deliciously Soft Ginger Cookies
 description :  These perfectly spiced and seriously soft cookies will become one of your new holiday favorites.
-date: '2018-09-26'
+date: '2018-09-30'
 image: deliciously_soft_ginger_cookies.jpg
 lead: Ginger Cookies should be Soft. Period.
 ---

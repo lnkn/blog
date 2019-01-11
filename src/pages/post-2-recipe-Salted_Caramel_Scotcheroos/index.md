@@ -1,7 +1,7 @@
 ---
 title: Salted Caramel Scotcheroos
 description : These bars make for such a great holiday treat and you will be reaching for your second scotcheroo in no time. 
-date: '2018-09-26'
+date: '2018-09-28'
 image: salted_caramel_scotcheroos-1.jpg
 lead: These bars make for such a great holiday treat and you will be reaching for your second scotcheroo in no time.
 ---
