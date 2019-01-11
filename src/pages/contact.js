@@ -25,7 +25,7 @@ const Contact = () => (
         <br/>
         <br/>
         <label class="inp">
-          <input type="email" id="inp" name="Message" placeholder="&nbsp;" />
+          <input type="text" id="inp" name="Message" placeholder="&nbsp;" />
           <span class="label">Message</span>
           <span class="border"></span>
         </label>
