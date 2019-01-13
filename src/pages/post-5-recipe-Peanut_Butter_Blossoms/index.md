@@ -34,5 +34,6 @@ Take dough out of fridge, and roll into 1 tablespoon size balls. Then roll ball 
 
 Once time is up, take out of the oven and let cool for 5 minutes before transferring to cooling rack. 
 
-![](PeanutButterBlossom1.jpg)
+![](PeanutButterBlossom1.jpeg)
+
 
