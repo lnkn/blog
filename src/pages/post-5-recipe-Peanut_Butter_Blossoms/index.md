@@ -2,9 +2,11 @@
 title: Peanut Butter Blossoms
 description : These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? Well, whether your are baking for a holiday party or just to bake, I highly recommend these bites of goodness! 
 date: '2018-12-11'
-image: PeanutButterBlossom1.jpeg
+image: PeanutButterBlossom2.jpeg
 lead: TIme to dive into these bad boys...
 ---
+
+<i>These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? Well, whether you do or not, I am sure that you will enjoy these bites of goodness! </i>
 
 #### Prep Time: 5 minutes | Cool time: 30 minutes | Bake time: 10 minutes | Total time: 1 hour 5 minutes
 
@@ -33,4 +35,4 @@ Take dough out of fridge, and roll into 1 tablespoon size balls. Then roll ball 
 
 Once time is up, take out of the oven and let cool for 5 minutes before transferring to cooling rack. 
 
-
+<img src = “PeanutButterBlossom1.jpeg” />
