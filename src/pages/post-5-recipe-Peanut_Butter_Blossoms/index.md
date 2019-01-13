@@ -1,35 +1,36 @@
 ---
-title: Funfetti Cookies
-description : Have you ever taken a bite of something and you were transported back to a childhood memory? These cookies do just that.  With the perfect amount of sprinkles, sugar, and vanilla; these soft and chewy cookies will be your new go to. Bake a batch (or two) and enjoy!
-date: '2018-10-1'
-image: Funfetti_1.jpg
-lead: Sprinkles of joy are just ahead.
+title: Peanut Butter Blossoms
+description : These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? Well, whether your are baking for a holiday party or just to bake, I highly recommend these bites of goodness! 
+date: '2018-12-11'
+image: PeanutButterBlossom1.jpeg
+lead: TIme to dive into these bad boys...
 ---
 
-*Have you ever taken a bite of something and you were transported back to a childhood memory? These cookies do just that.  With the perfect amount of sprinkles, sugar, and vanilla; these soft and chewy cookies will be your new go to. Bake a batch (or two) and enjoy!*
+#### Prep Time: 5 minutes | Cool time: 30 minutes | Bake time: 10 minutes | Total time: 1 hour 5 minutes
 
-#### Prep Time: 15 min | Bake time: 10 min | Total time: 25 minutes
+**Yields: 20 cookies** 
 
-**Yields: 18 cookies** 
+## Ingredients:
 
-## What you'll need:
-
-- 10 tablespoons **unsalted butter**, at room temperature
-- 3/4 cup **granulated sugar**
-- 1/3 cup **brown sugar** 
-- 1 tablespoon **vanilla extract**
+- 1 stick  **unsalted butter**, softened
+- 1/4 cup **granulated sugar** + 1/4 cup for rolling
+- 1/2 cup **brown sugar** 
 - 1 **large egg**
-- 1 3/4 cups **all-purpose flour**
-- 1 teaspoon **baking soda**
+- 2 teaspoons **vanilla extract**
+- 1 cup **creamy peanut butter**
+- 1 1/4 cups **all-purpose flour**
+- 1/2 teaspoon **baking soda**
 - 1/4 teaspoon **salt** 
-- 1/2 teaspoon **cream of tartar**
-- 1/2 cup **rainbow sprinkles**
+- 20 **chocolate kisses**, unwrapped
 
 ## Instructions:
 
-Set the oven to 350°F and grab your non-stick cookie sheet. 
+In a large mixing bowl, beat butter for 30 seconds. Add granulated sugar and brown sugar, mix together for another minute. Add the egg and vanilla, beat for another minute. Then, add the peanut butter and mix until all ingredients are incorporated, scraping down the sides of the bowl as necessary. Add dry ingredients and mix slowly, until combined.
 
-In a large mixing bowl, cream the butter, sugar, and brown sugar on medium speed for about one minute. Add the vanilla and egg, mixing together until incorporated. Add the flour, baking soda, salt, and cream of tartar. Mixing slow and ensuring all the ingredients are combined. Add the sprinkles and mix slow until combined. 
+Cover the bowl with plastic wrap and refrigerate for 30 minutes. Set oven to 350°F and line baking sheets with parchment paper. Put the other ¼ cup of granulated rolling sugar in a shallow bowl. 
 
-Form the cookies with your hands in 1 ½ tablespoon size balls. Place on the baking sheet a couple inches apart. Bake in the oven for about 10 minutes, or until the cookies begin to crack on the top a bit. Set aside to cool for about five minutes before removing to a cookie rack. 
+Take dough out of fridge, and roll into 1 tablespoon size balls. Then roll ball into sugar and place on cookie sheet. Bake the cookies for 10 minutes. When cookies are baking, put chocolate kisses in the freezer to chill. When there is 2 minutes left of the bake time, take cookies out of the oven and press the chocolate kiss into the cookie (the cookie will slightly crack), then put back in oven for the last two minutes. 
+
+Once time is up, take out of the oven and let cool for 5 minutes before transferring to cooling rack. 
+
 
