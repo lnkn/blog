@@ -2,10 +2,9 @@
 title: Dark Chocolate Chunk Cookies with Sea Salt
 description : Who loves dark chocolate? I would much rather have dark chocolate everything than milk chocolate, but that’s just me! These dark chocolate chunk cookies will satisfy your sweets craving and with the addition of flaky sea slat, I can think of nothing better to splurge on! 
 date: '2018-11-14'
-image: TopDownChocoCookie.jpeg
+image: ChocoCookieSeaSalt.jpeg
 lead: Who can resist dark chocolate and sea salt?
 ---
-
 <i>Who loves dark chocolate? I would much rather have dark chocolate everything than milk chocolate, but that’s just me! These dark chocolate chunk cookies will satisfy your sweets craving and with the addition of flaky sea slat, I can think of nothing better to splurge on! </i>
 
 #### Prep Time: 15 minutes | Cool time: 10 minutes | Bake time: 12 minutes | Total time: 1 hour
@@ -36,4 +35,5 @@ Cover the bowl with plastic wrap and refrigerate for about 10 minutes. Form the 
 Now, take a bit of these heavenly cookies while warm and melt into the salty sweet combination.  
 
 
-<img src = “ChocoCookieSeaSalt.jpeg” />
+![](ChocoCookieSeaSalt2.jpeg)
+
