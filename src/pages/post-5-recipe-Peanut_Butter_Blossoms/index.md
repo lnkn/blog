@@ -3,7 +3,7 @@ title: Peanut Butter Blossoms
 description : These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? Well, whether your are baking for a holiday party or just to bake, I highly recommend these bites of goodness! 
 date: '2018-12-11'
 image: PeanutButterBlossom2.jpeg
-lead: TIme to dive into these bad boys...
+lead: Time to dive into these bad boys...
 ---
 <i>These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? Well, whether you do or not, I am sure that you will enjoy these bites of goodness! </i>
 
