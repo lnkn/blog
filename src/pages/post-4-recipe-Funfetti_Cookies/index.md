@@ -8,11 +8,11 @@ lead: Sprinkles of joy are just ahead.
 
 *Have you ever taken a bite of something and you were transported back to a childhood memory? These cookies do just that.  With the perfect amount of sprinkles, sugar, and vanilla; these soft and chewy cookies will be your new go to. Bake a batch (or two) and enjoy!*
 
-#### Prep Time: 15 min | Bake time: 10 min | Total time: 25 minutes
+#### Prep Time: 15 minutes | Bake time: 10 minutes | Total time: 25 minutes
 
 **Yields: 18 cookies** 
 
-## What you'll need:
+## Ingredients:
 
 - 10 tablespoons **unsalted butter**, at room temperature
 - 3/4 cup **granulated sugar**
