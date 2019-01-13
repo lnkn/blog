@@ -1,7 +1,7 @@
 ---
 title: Chocolate Truffles
 description : Looking for the perfect homemade gift? Look no further! These Chocolate Truffles make such a great personalized gift. Mix’ n match or do all the same flavor! 
-date: '2018-11-14'
+date: '2018-12-17'
 image: Truffles1.jpeg
 lead: These little bites pack a chocolatey punch. 
 ---
