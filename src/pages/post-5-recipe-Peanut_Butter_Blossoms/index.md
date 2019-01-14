@@ -5,7 +5,7 @@ date: '2018-12-11'
 image: PeanutButterBlossom2.jpeg
 lead: Time to dive into these bad boys...
 ---
-<i>These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? I hope that you enjoy these bites of goodness! </i>
+*These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? I hope that you enjoy these bites of goodness! *
 
 #### Prep time: 5 minutes | Cool time: 30 minutes | Bake time: 10 minutes | Total time: 1 hour 5 minutes
 

@@ -5,7 +5,7 @@ date: '2018-12-17'
 image: Truffles1.jpeg
 lead: These little bites pack a chocolatey punch. 
 ---
-<i>Looking for the perfect homemade gift? Look no further! These Chocolate Truffles make such a great personalized gift. Mix’ n match or do all the same flavor! </i>
+*Looking for the perfect homemade gift? Look no further! These Chocolate Truffles make such a great personalized gift. Mix’ n match or do all the same flavor! *
 
 ![](Truffles2.jpeg) 
 

@@ -5,7 +5,7 @@ date: '2018-09-30'
 image: deliciously_soft_ginger_cookies.jpg
 lead: Ginger Cookies should be Soft. Period.
 ---
-<i>I don’t know about you, but I think chewy ginger cookies are one of the best fall traditions! These perfectly spiced and seriously soft cookies will become one of your new holiday favorites. Bring to a family gathering and let the cookies speak for themselves!</i>
+*I don’t know about you, but I think chewy ginger cookies are one of the best fall traditions! These perfectly spiced and seriously soft cookies will become one of your new holiday favorites. Bring to a family gathering and let the cookies speak for themselves!*
 
 #### Prep Time: 15 minutes | Cool time: 1 hour | Bake time: 11 minutes | Total time: 2 hours
 

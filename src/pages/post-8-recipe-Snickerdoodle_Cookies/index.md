@@ -5,7 +5,7 @@ date: '2018-11-21'
 image: Snickerdoodle1.jpeg
 lead: The softest Snickerdoodle Cookies out there.
 ---
-<i>These cinnamon and sugar cookies are just what you need! This easy recipe is quick and makes just the softest cookies. I hope you love them!</i>
+*These cinnamon and sugar cookies are just what you need! This easy recipe is quick and makes just the softest cookies. I hope you love them!*
  
 #### Prep time: 10 minutes | Bake time: 12 minutes | Total time: 34 minutes
 

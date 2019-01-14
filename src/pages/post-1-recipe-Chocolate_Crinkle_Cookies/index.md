@@ -5,7 +5,7 @@ date: '2018-09-26'
 image: chocolate_crinkle_cookies-2.jpg
 lead:  I have to say, these are something special.
 ---
-<i>Get ready for the fudgiest and most melt in your mouth cookies. These Chocolate Crinkle Cookies are such a staple and I have to say, these are some of the best!</i>
+*Get ready for the fudgiest and most melt in your mouth cookies. These Chocolate Crinkle Cookies are such a staple and I have to say, these are some of the best!*
 
 
 #### Prep time: 10 mimutes | Cool time: 2 hours | Bake time: 10 minutes | Total time: 2 hours and 20 minutes
