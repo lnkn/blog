@@ -28,7 +28,7 @@ lead: This is a cookie worth eating. I promise.
 - 1/4 teaspoon **salt**
 - 1 1/2 cups **dark chocolate chunks**
 - 1/2 cup **butterscotch chips**
-- **Flaky sea salt**
+- Flaky **sea salt**
 
 
 ## Instructions:

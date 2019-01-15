@@ -2,29 +2,26 @@
 title: Salted Caramel Scotcheroos
 description : These bars make for such a great holiday treat and you will be reaching for your second scotcheroo in no time. 
 date: '2018-09-28'
-image: salted_caramel_scotcheroos-1.jpg
-lead: These bars make for such a great holiday treat and you will be reaching for your second scotcheroo in no time.
+image: Scotcheroo1.jpeg
+lead: "PSA: these are crack." - Jackson Bloom
 ---
+*Salted Caramel Scotcheroos coming your way! These bars make for such a great treat and you will be reaching for your second scotcheroo in no time.*
 
-#### Prep Time: 30 min | Cool time: 1 hr | Total time: 1 hr & 30 min
-
-**Salted Caramel Scotcheroos coming your way! These bars make for such a great holiday treat and you will be reaching for your second scotcheroo in no time.**
+#### Prep time: 30 minutes | Cool time: 1 hour | Total time: 1 hour and 30 minutes
 
 **Yields: 24 bars**  
 
-## What you'll need:
+## Ingredients:
 
 - 1 cup **granulated sugar**
 - 6 tablespoons of **unsalted butter**
-- ½ cup heavy **whipping cream**
+- 1/2 cup heavy **whipping cream**
 - 1 teaspoon **salt**
-- 1 cup natural creamy **peanut butter**
+- 1 cup natural **creamy peanut butter**
 - 6 cups of **rice Krispies**
-- 3 ½ cups **semisweet chocolate chips**
+- 3 1/2 cups **semisweet chocolate chips**
 - 1 tablespoon **vegetable oil**
 - Flaky **sea salt** (optional)
-
-![](salted_caramel_scotcheroos-3.jpg)
 
 ## Instructions:
 
@@ -42,4 +39,4 @@ Once chocolate is melted, pour over the rice krispie mixture and spread evenly. 
 Let cool in the fridge or freezer for about an hour so that the bars set. Then, cut into squares and enjoy! 
 
 
-![](salted_caramel_scotcheroos-2.jpg)
+![](Scotcheroo3.jpeg)
