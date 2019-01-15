@@ -1,6 +1,6 @@
 ---
 title: Butterscotch Dark Chocolate Chunk Oat Cookie
-description : •	These cinnamon and sugar cookies are just what you need! This easy recipe is quick and makes just the softest cookies. I hope you love them!
+description : With the start of the year, I just had to share my version of the perfect cookie. You know, the one that checks all the boxes- sweet, chewy, chocolate, salty, and a little something extra? Well this Butterscotch Dark Chocolate Oat Cookie does all that (and more).
 date: '2019-1-1'
 image: ButterscotchDarkChocolateOat1.jpeg
 lead: This is a cookie worth eating. I promise.

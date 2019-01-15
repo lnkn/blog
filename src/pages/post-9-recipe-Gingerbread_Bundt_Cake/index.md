@@ -1,6 +1,6 @@
 ---
 title: Gingerbread Bundt Cake with Maple Glaze
-description : •	These cinnamon and sugar cookies are just what you need! This easy recipe is quick and makes just the softest cookies. I hope you love them!
+description : I loved bringing this cake to my holiday party and I am sure it will be a hit at your next gathering! 
 date: '2018-12-22'
 image: GingerbreadBundtCake.jpeg
 lead: This beauty is just asking to be baked.
@@ -44,7 +44,7 @@ Pour the batter into your prepared bundt pan. Bake for about 45 minutes, or unti
 
 While the cake is cooling, make the maple glaze by whisking powdered sugar, maple syrup, and milk in a small bowl until combined. Pour the glaze over the cake once the cake is completely cool. Slice, serve and enjoy!
 
-*Adapted from saltandbaker.* 
+*Adapted from Salt & Baker.* 
 
 
 
