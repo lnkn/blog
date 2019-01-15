@@ -3,7 +3,7 @@ title: Salted Caramel Scotcheroos
 description : These bars make for such a great holiday treat and you will be reaching for your second scotcheroo in no time. 
 date: '2018-09-28'
 image: Scotcheroo1.jpeg
-lead: "PSA: these are crack. - Jackson Bloom"
+lead: "\"PSA: these are crack. - Jackson Bloom\"" 
 ---
 *Salted Caramel Scotcheroos coming your way! These bars make for such a great treat and you will be reaching for your second scotcheroo in no time.*
 
