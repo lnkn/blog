@@ -1,7 +1,7 @@
 ---
 title: Earl Grey Shortbread Cookies with Pomegranate Glaze
 description : I have been craving something different lately and knew I wanted to incorporate one of my favorite fruits somehow. These delicate and buttery cookies are easy and filled with a pop of color that makes it hard not to smile.
-date: '2019-01-6'
+date: '2019-01-06'
 image: EarlGreyShortbread1.jpeg
 lead: Sometimes you just need a little bright pink in your life. 
 ---
