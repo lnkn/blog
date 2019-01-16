@@ -7,7 +7,7 @@ lead:  I have to say, these are something special.
 ---
 *Get ready for the fudgiest and most melt in your mouth cookies. These Chocolate Crinkle Cookies are such a staple and I have to say, these are some of the best!*
 
-#### Prep time: 10 mimutes | Chill time: 2 hours | Bake time: 10 minutes | Total time: 2 hours and 20 minutes
+#### Prep time: 10 mimutes | Chill time: 2 hours | Bake time: 10 minutes | Total time: 2 hours 20 minutes
 
 #### Yields: 24 cookies
 
