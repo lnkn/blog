@@ -13,6 +13,7 @@ const About = () => (
           <p>
            Hi, there! I am so happy you are here. I’m Zoe, the creator of Perfectly Salted. 
            </p>
+           ![](Aboutme.jpg)
            <p>
            My journey with baking started way back in the 7th grade when I decided to gift cookies to friends as their birthday present. I would ask them “if you could have any cookie, what kind would you want?” Answers ranged from chocolate chip, to snickerdoodle, to death by chocolate. The next day I would bring in cookies for my friend’s birthday and the word started spreading like wildfire that I was baking cookies for everyone’s birthday. I would go home and bake dozens of cookies a week for friends, classmates, and family. I loved that the simple act of baking cookies provided joy to others. People would often say that I should start a bakery and I would laugh and set that thought aside thinking “oh, wouldn’t that be nice”. 
           </p>
