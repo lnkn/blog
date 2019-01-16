@@ -5,7 +5,9 @@ date: '2018-11-26'
 image: AppleCrisp.jpeg
 lead:  The best thing about Apple Crisp is it can be justified as a breakfast food. 
 ---
-*When I go to a dinner party you can count on me bringing the dessert! This Apple Crisp is easy and makes the perfect dessert to any meal. The top of the crisp is so deliciously full of oats and is the perfect ratio to apple. Want to know what the best part about this Apple Crisp? It makes THE best leftovers for the morning. Seriously, make sure you save some to have in the morning as a little oaty treat!*
+*When I go to a dinner party you can count on me bringing the dessert! This Apple Crisp is easy and makes the perfect dessert to any meal. The top of the crisp is so deliciously full of oats and is the perfect ratio to apple.*
+
+*But the best part about this Apple Crisp? It makes THE best leftovers for the morning. Seriously, make sure you save some to have in the morning as a little oaty treat!*
 
 
 #### Prep time: 20 mimutes | Bake time: 55 minutes | Total time: 1 hour and 15 minutes
