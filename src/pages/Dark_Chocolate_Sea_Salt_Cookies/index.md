@@ -3,11 +3,11 @@ title: Dark Chocolate Chunk Cookies with Sea Salt
 description : Who loves dark chocolate? I would much rather have dark chocolate everything than milk chocolate, but that’s just me! These dark chocolate chunk cookies will satisfy your sweets craving and with the addition of flaky sea slat, I can think of nothing better to splurge on! 
 date: '2018-11-14'
 image: ChocoCookieSeaSalt.jpeg
-lead: Who can resist dark chocolate and sea salt?
+lead: I mean... who can resist dark chocolate and sea salt?
 ---
-*Who loves dark chocolate? I would much rather have dark chocolate everything than milk chocolate, but that’s just me! These dark chocolate chunk cookies will satisfy your sweets craving and with the addition of flaky sea slat, I can think of nothing better to splurge on! *
+*Who loves dark chocolate? I would much rather have dark chocolate everything than milk chocolate, but that’s just me! These Dark Chocolate Chunk Cookies will satisfy your sweets craving and with the addition of flaky sea salt, I can think of nothing better to splurge on!*
 
-#### Prep Time: 15 minutes | Cool time: 10 minutes | Bake time: 12 minutes | Total time: 1 hour
+#### Prep time: 15 minutes | Chill time: 10 minutes | Bake time: 12 minutes | Total time: 37 minutes
 
 **Yields: 24 cookies** 
 
@@ -20,9 +20,9 @@ lead: Who can resist dark chocolate and sea salt?
 - 3/4 teaspoon **salt** 
 - 1/2 cup **granulated sugar**
 - 1 1/4 cups **brown sugar** 
-- 2 **large egg**
+- 2 **large eggs**
 - 12 ounces **dark chocolate** chunks or bars chopped into chunks (I use a mix of both!)
-- Flaky sea salt 
+- Flaky **sea salt**
 
 ## Instructions:
 
@@ -33,7 +33,6 @@ In a large bowl, whisk the flour, baking powder, baking soda, and salt together.
 Cover the bowl with plastic wrap and refrigerate for about 10 minutes. Form the dough into 3 tablespoon size balls, place on the cookie sheet a couple inches apart, and press down each ball slightly so that they are a tad flattened. Sprinkle a little flaky sea salt on top and pop them in the oven for 11-13 minutes. Pull out of the oven and sprinkle a little more sea salt on top. Leave the cookies on the cookie sheet for a few minutes to cool and then transfer to a cooling rack. 
 
 Now, take a bit of these heavenly cookies while warm and melt into the salty sweet combination.  
-
 
 ![](ChocoCookieSeaSalt2.jpeg)
 

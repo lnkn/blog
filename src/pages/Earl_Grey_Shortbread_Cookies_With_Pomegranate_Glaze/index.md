@@ -9,7 +9,7 @@ lead: Sometimes you just need a little bright pink in your life.
  
 ![](EarlGreyShortbread2.jpeg)
 
-#### Prep time: 10 minutes | Cool time: 30 minutes | Bake time: 12 minutes | Total time: 55 minutes
+#### Prep time: 10 minutes | Chill time: 30 minutes | Bake time: 12 minutes | Total time: 52 minutes
 
 **Yields: 28 cookies** 
 
@@ -18,7 +18,7 @@ lead: Sometimes you just need a little bright pink in your life.
 The Cookie:
 - 2 cups **all-purpose flour**
 - 3 tablespoons **earl grey loose-leaf tea**
-- ¼ teaspoon **salt**
+- 1/4 teaspoon **salt**
 - 1 cup **unsalted butter**, slightly melted
 - 3/4 cup **powdered sugar**
 - 2 teaspoons **vanilla extract**

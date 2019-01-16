@@ -3,11 +3,11 @@ title: Gingerbread Bundt Cake with Maple Glaze
 description : I loved bringing this cake to my holiday party and I am sure it will be a hit at your next gathering! 
 date: '2018-12-22'
 image: GingerbreadBundtCake.jpeg
-lead: This beauty is just asking to be baked.
+lead: This beauty is just asking to be baked and sliced into.
 ---
-*I loved bringing this cake to my holiday party and I am sure it will be a hit at your next gathering!* 
+*This Gingerbread Bundt Cake with Maple Glaze is a total showstopper. It is filled with the perfect amount of ginger, molasses, and sweetness to create a deliciously soft and flavorful cake. I hope you enjoy it as much as I did!*
  
-#### Prep time: 5 minutes | Bake time: 45 minutes | Total time: 1 hour and 10 minutes 
+#### Prep time: 10 minutes | Bake time: 45 minutes | Total time: 55 minutes
 
 **Yields: 1 bundt cake** 
 
@@ -44,7 +44,7 @@ Pour the batter into your prepared bundt pan. Bake for about 45 minutes, or unti
 
 While the cake is cooling, make the maple glaze by whisking powdered sugar, maple syrup, and milk in a small bowl until combined. Pour the glaze over the cake once the cake is completely cool. Slice, serve and enjoy!
 
-*Adapted from Salt & Baker.* 
+*Inspired by Salt & Baker.* 
 
 
 

@@ -30,7 +30,7 @@ Preheat oven to 350°F. Slice the apples into 1/4 cm and add to a 13”x9” gla
 
 In a large bowl, add butter, brown sugar, oats and flour into bowl. Use a fork to cut the butter in the flour mixture (or your hands!) and combine, making sure all the butter is crumbly and small. Then, add crumble mixture to the top of the apples and flatten down the mixture. 
 
-Bake for 55 minutes, until the top is golden brown. Let sit for 5 minutes and dig in! Oh, and don't forget the vanilla ice cream!
+Bake for 55 minutes, until the top is golden brown. Let sit for five minutes and dig in! Oh, and don't forget the vanilla ice cream!
 
 
 

@@ -5,9 +5,9 @@ date: '2018-11-18'
 image: PeanutButterCookie.jpeg
 lead: My motto is- the more peanut butter, the better. 
 ---
-*A true classic: peanut butter cookies. I have always loved peanut butter cookies and I hope you enjoy these soft sweet bites!*
+*A true classic: Peanut Butter Cookies. I have always loved Peanut Butter Cookies and I hope you enjoy these soft sweet bites!*
 
-#### Prep time: 10 minutes | Cool time: 1 hour | Bake time: 12 minutes | Total time: 1 hour and 22 minutes
+#### Prep time: 10 minutes | Chill time: 1 hour | Bake time: 12 minutes | Total time: 1 hour 22 minutes
 
 **Yields: 28 cookies** 
 
@@ -32,7 +32,7 @@ Add the flour, baking soda, baking powder and salt into the bowl. Mix slowly unt
 
 Set the oven to 350°F and put the extra granulated sugar in a shallow bowl. Roll balls of dough into about 2 tablespoon size balls and place a few inches apart on the non-stick cookie sheet. Put the fork into bowl of sugar, so some sugar sits on top of the fork, and press the fork down on the top of each dough ball to create a crisscross pattern (if sugar does not sit on the fork, make the crisscross pattern and then sprinkle sugar on top). 
 
-Bake for about 11-12 minutes. Remove from the oven and let cool on baking sheet for 5 minutes before moving to a cooling rack. There you have it! Delicious peanut butter cookies with a crispy outside and soft interior. 
+Bake for about 11-12 minutes. Remove from the oven and let cool on baking sheet for five minutes before moving to a cooling rack. There you have it! Delicious peanut butter cookies with a crispy outside and soft interior. 
 
 
 
