@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Perfectly Salted',
-    siteUrl: 'https://reactgo.com',
+    siteUrl: 'https://perfectlysalted.co',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

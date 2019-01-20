@@ -1,5 +1,4 @@
  .link{
-
     text-decoration: none;
     color: black;
 }
@@ -14,25 +13,29 @@
     overflow: hidden;
     transition: all .3s ease;
     text-decoration: none;
-    justify-content: flex-end;
+    justify-content: flex-start;
     position: relative;
-    overflow: hidden;
+    overflow: hidden; 
    
 }
 .post-list__text{
     z-index: 2;
-    padding: 30px;
+    padding: 15px;
+    
    
 }
 .post-list h1{
-    font-size:36px;
+    font-size:32px;
     font-family: poynter-oldstyle-display, serif;
     font-weight: 700;
+    color: #222;
+    padding: 15px;
+    background: white;
+
 }
 .post-list span{
-    transition: all .2s ease;
-    font-family: futura-pt, serif;
-    font-weight: 700;
+    font-weight: 300;
+    font-size:22px;
 }
 
 .post-list:hover span.readmore{
