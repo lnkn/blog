@@ -629,6 +629,121 @@ pre tt:after {
     font-size: 100%;
   }
 }
+.splash{
+  margin: 0 auto;
+  text-align: center
+}
+
+.splash__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100% - 205px);
+}
+
+.st0{fill: #222}
+
+.splash__header{
+  color: white;
+  line-height: 1;
+  margin: 40px auto;
+  font-size: 36px;
+}
+
+@media (min-width: 767px) {
+  .splash__header{
+    color: white;
+    line-height: 1;
+    margin: 40px auto;
+    font-size: 70px;
+  }
+}
+
+
+.splash__content{
+  background: white;
+  max-width: 300px;
+  padding: 20px 40px;
+  flex: none;
+  box-shadow: 0 1px 0 rgba(0,0,0,.05), 0 1px 2px rgba(0,0,0,.05), 0 5px 15px rgba(0,0,0,0.5);
+  border-radius: 4px;
+}
+.splash__svg-header{
+  // margin-bottom:30px;
+  svg{
+    width: 100%
+  }
+}
+.splash__svg-footer{
+  // margin-top:30px;
+  svg{
+    width: 100%
+  }
+}
+
+.splash__background{
+position: absolute;
+background:#222;
+background: url('../../public/bg/bg3.jpg');
+height: 100%; 
+width: 100%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+
+// nav styles ------------------------------------
+
+ul.nav__links{
+  margin: 0 auto;
+  transition: all 300ms;
+  list-style-type: none;
+  padding: 0;
+
+  a {
+    position: relative;
+    display:inline-block;
+    transition: all 100ms;
+    text-decoration: none;
+    color: #222222;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 1.5;
+    &:hover{
+      color: #2326fb;
+    }
+    &:after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: -5px;
+      height: 1px;
+      background: #222;
+      -webkit-transform: scaleX(0);
+      transform: scaleX(0);
+      -webkit-transform-origin: left center;
+      transform-origin: left center;
+      transition: -webkit-transform .5s cubic-bezier(.5,.05,.2,1);
+      transition: transform .5s cubic-bezier(.5,.05,.2,1);
+      transition: transform .5s cubic-bezier(.5,.05,.2,1),-webkit-transform .5s cubic-bezier(.5,.05,.2,1)
+    }
+    &:hover:after {
+      -webkit-transform: scaleX(1);
+      transform: scaleX(1)
+    }
+    &.active {
+      color: #2326fb;
+    }
+    &.active:after {
+      -webkit-transform: scaleX(1);
+      transform: scaleX(1);
+      background: #2326fb;
+    }
+  }
+}
 
 
 .wrapper {
@@ -776,7 +891,6 @@ pre tt:after {
   font-size: 16px;
   text-decoration: none;
   font-weight: 700;
-  
   font-family: poynter-oldstyle-display, Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -798,7 +912,6 @@ pre tt:after {
         left: 50%;
         margin: 0 auto;
         padding: .4rem 1.4rem .4rem;
-        
         font-size: 1.2rem;
         text-align: center;
         letter-spacing: 0.05em;

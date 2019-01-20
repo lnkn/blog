@@ -32,7 +32,7 @@ const Contact = () => (
         <p>
           <br/>
           <br/>
-          <button type="submit">Send to Zoe</button>
+          <button type="submit">Submit</button>
         </p>
       </form>
     </div>
