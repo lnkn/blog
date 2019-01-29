@@ -1,9 +1,12 @@
 import React from 'react'
-import { Link} from 'gatsby'
+import { Link } from 'gatsby'
+import './post-list.css';
+import '../components/layout.scss';
+
 
 const IndexPage = (props) => {
   return (
-    <div className="splash">
+     <div className="splash">
         <div className="splash__background">
         <h1 className="splash__header">Perfectly Salted</h1>
             <div className="splash__container">

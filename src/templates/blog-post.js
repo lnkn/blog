@@ -1,5 +1,6 @@
 import React from 'react';
 import Layout from '../components/layout';
+import './blog-post.scss';
 import Img from 'gatsby-image';
 import Metatags from '../components/Metatags';
 import { graphql } from 'gatsby'
@@ -27,7 +28,7 @@ function BlogPost(props) {
             <div>
               
                 <div className="intro">
-                <Link className="post__backbutton" to="/">←</Link>
+                {/* <Link className="post__backbutton" to="/">←</Link> */}
                   <h1>{title}</h1>
                   <p className="lead">{lead}</p>
                   {/* <p className="date">{date}</p> */}

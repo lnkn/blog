@@ -1,15 +1,13 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
-import './post.css';
+import './post-list.css';
 import Layout from '../components/layout'
-import Home from '../components/Home'
 import Img from 'gatsby-image';
 
 const Recipes = (props) => {
   const postList = props.data.allMarkdownRemark;
   return (
     <div>
-    <Home></Home>
       <Layout>
           {postList.edges.map(({ node }, i) => (
             <Link to={node.fields.slug} key={i} className="post-list"
@@ -17,7 +15,11 @@ const Recipes = (props) => {
                 {/* <img src={node.fontmatter.image.childImgage.sharp}></img> */}
                 {/* <Img fluid={node.frontmatter.image.childImageSharp.fluid} /> */}
                 <div className="post-list__text">
-                  <h1>{node.frontmatter.title}<br/><span>→</span></h1>
+                  <div className="post-list__type"><span>Recipe</span></div>
+                  <h1 className="post-list__title">{node.frontmatter.title}
+                    <br/>
+                    <span>→</span>
+                  </h1>
                   {/* <span>{node.frontmatter.date}</span> */}
                   {/* <p>{node.excerpt}</p> */}
                 
