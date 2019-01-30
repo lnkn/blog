@@ -38,12 +38,12 @@ class Layout extends Component {
           >
             <html lang="en" />
           </Helmet>
+          <Header siteTitle={data.site.siteMetadata.title} />
           <div className="wrapper">
-            <Header siteTitle={data.site.siteMetadata.title} />
-            <div className={postList}>
-              {this.props.children}
-            </div>
-            <Footer />
+          <div className={postList}>
+            {this.props.children}
+          </div>
+          <Footer />
           </div>
         </>
       )}
