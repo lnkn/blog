@@ -64,17 +64,18 @@ ul.nav__links {
 .wrapper {
     z-index: 10;
     position: relative;
-    padding: 90px 0em 30px
+    padding: 90px 20px 30px
 }
 
 .header {
     background: white;
-    margin-bottom: 2rem;
+    margin: 0 auto;
     padding: 8px 20px;
     position: fixed;
     top: 0;
+    right: 0;
+    left: 0;
     z-index: 900 !important;
-    max-height: 80px;
     width: 100%;
     box-shadow: 0 1px 0 rgba(0, 0, 0, .04), 0 1px 2px rgba(0, 0, 0, .04), 0 5px 9px rgba(0, 0, 0, .02);
     .navlinks {
@@ -128,7 +129,7 @@ ul.nav__links {
     .wrapper {
         z-index: 10;
         position: relative;
-        padding: 60px 0em 10px
+        padding: 90px 10px 10px
     }
 }
 
