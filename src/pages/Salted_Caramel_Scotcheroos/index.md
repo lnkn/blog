@@ -2,7 +2,7 @@
 title: Salted Caramel Scotcheroos
 description : These bars make for such a great holiday treat and you will be reaching for your second scotcheroo in no time. 
 date: '2018-09-28'
-image: Scotcheroo1.jpeg
+image: Scotcheroo1.jpg
 lead: Warning- baking these will result in happy friends and tummies. 
 ---
 *Salted Caramel Scotcheroos coming your way! I baked these incredible bars for a party and they were gone so fast that I almost felt bad I didn't bring more! These bars make for such a great treat and you will be reaching for your second scotcheroo in no time.*
@@ -37,4 +37,4 @@ Heat the chocolate chips in a glass bowl in the microwave and add 1 teaspoon of 
 
 Let cool in the fridge or freezer for about an hour so that the bars set. Then, cut into squares and enjoy! 
 
-![](Scotcheroo3.jpeg)
+![](Scotcheroo3.jpg)

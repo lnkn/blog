@@ -2,12 +2,12 @@
 title: Chocolate Truffles
 description : Looking for the perfect homemade gift? Look no further! These Chocolate Truffles make such a great personalized gift. Mix’ n match or do all the same flavor! 
 date: '2018-12-17'
-image: Truffles1.jpeg
+image: Truffles1.jpg
 lead: These little bites pack a chocolatey punch. 
 ---
 *Looking for the perfect homemade gift? Look no further! These Chocolate Truffles make such a great personalized gift. And the best part? You can totally make these your own! Use white chocolate or milk chocolate coating, go crazy with toppings! Mix’ n match or do all the same flavor. You get to choose!*
 
-![](Truffles2.jpeg) 
+![](Truffles2.jpg) 
 
 
 #### Prep time: 15 minutes | Chill time: 2 hours | Assembly time: 20 minutes | Total time: 2 hours 35 minutes
@@ -34,5 +34,5 @@ Dip the truffle ball into the milk chocolate with a fork and then place on parch
 Sprinkle the melted chocolate coating with flaky sea salt (my favorite!) or crushed candy cane. 
 Box up these little bites of goodness and give as a gift to a family member or friend.  
 
-![](Truffles3.jpeg)
+![](Truffles3.jpg)
 

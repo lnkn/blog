@@ -624,8 +624,6 @@ body {
     content: "";
   }
 
-
-
   .post-list-wrapper__one{
     max-width: 960px;
     margin:20px auto;
@@ -641,11 +639,11 @@ body {
     h1{
       font-size: 72px;
       line-height: 1.1;
-      // letter-spacing: -3px;
       margin: 0 auto 40px;
     }
     p.lead{
       font-size: 24px;
+      font-style: italic;
     }
     p.date{
       font-size: 14px;
@@ -662,39 +660,52 @@ body {
         font-family:poynter-oldstyle-text, Georgia, 'Times New Roman', Times, serif;
       }
       h2{
-        border-bottom: #0000006b .5px solid;
+        border-bottom: #000 2px solid;
         padding-bottom:1rem;
         margin-bottom:1rem;
       }
       h4{
-      // background: rgba(0, 0, 0, 0.09);
-      padding:20px 0;
+      background: rgba(0, 0, 0, 0.02);
+      padding:20px 0 20px 20px;
       margin-bottom:0;
-      // font-family: monospace;
-      // text-transform: uppercase;
-      // letter-spacing: 0.1rem;
+      font-family: monospace;
+      text-transform: uppercase;
+      letter-spacing: 0.1rem;
+      border: 2px solid black;
+      }
+      h4 + * {
+        margin-top:20px;
       }
       h4 + ul{
         // background: rgba(0, 0, 0, 0.03);
-        // list-style: none;
-        // padding:20px;
-        // margin-left: 0;
+        list-style: none;
+        padding:20px;
+        margin-left: 0;
+        border: 2px solid black;
+        border-top: none;
+        margin-top:0;
       }
       thead{
-        // background: rgba(0, 0, 0, 0.09);
+        background: rgba(0, 0, 0, 0.02);
+        font-family: monospace;
+        text-transform: uppercase;
+        letter-spacing: 0.1rem;
         margin-bottom:0;
+        border: 2px solid black;
         // font-family: monospace;
         // text-transform: uppercase;
         // letter-spacing: 0.1rem;
         th{
-          // padding: 20px;
+          padding: 20px;
         }
       }
       tbody{
         // background: rgba(0, 0, 0, 0.03);
+        border: 2px solid black;
         td{
-          // padding: 20px;
+          padding: 20px;
           border:none;
+          font-weight: 700;
         }
       }
     }

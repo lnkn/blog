@@ -2,7 +2,7 @@
 title: Peanut Butter Blossoms
 description : These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? Well, whether your are baking for a holiday party or just to bake, I highly recommend these bites of goodness! 
 date: '2018-12-11'
-image: PeanutButterBlossom2.jpeg
+image: PeanutButterBlossom2.jpg
 lead: Name a more iconic duo than chocolate and peanut butter. 
 ---
 *These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? I hope you enjoy these Peanut Butter Blossoms!*
@@ -34,6 +34,6 @@ Take dough out of fridge, and roll into 1 tablespoon size balls. Then roll ball 
 
 Once the time is up, take out of the oven and let cool for five minutes before transferring to cooling rack. 
 
-![](PeanutButterBlossom1.jpeg)
+![](PeanutButterBlossom1.jpg)
 
 

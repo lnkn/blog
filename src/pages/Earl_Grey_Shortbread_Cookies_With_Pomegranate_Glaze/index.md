@@ -2,18 +2,21 @@
 title: Earl Grey Shortbread Cookies with Pomegranate Glaze
 description : I have been craving something different lately and knew I wanted to incorporate one of my favorite fruits somehow. These delicate and buttery cookies are easy and filled with a pop of color that makes it hard not to smile.
 date: '2019-01-06'
-image: EarlGreyShortbread1.jpeg
+image: EarlGreyShortbread1.jpg
 lead: Sometimes you just need a little bright pink in your life. 
 ---
 *I have been craving something different lately and knew I wanted to incorporate one of my favorite fruits somehow. Thus, these Earl Grey Shortbread Cookies with Pomegranate Glaze were born! These delicate and buttery cookies are easy and filled with a pop of color that makes it impossible not to smile.*
  
-![](EarlGreyShortbread2.jpeg)
+![](EarlGreyShortbread2.jpg)
 
+## Yield:
+ 28 Delicious Cookies
+
+## Time:
 | Prep Time   	| Chill Time 	| Bake Time  	| Total Time    |
 |--------	    |--------	    |--------   	|------------	|
 | 10min    	    | 30min     	| 12min         | 52min       	|
 
-__Yields: 28 cookies__
 
 ## Ingredients:
 
@@ -36,5 +39,5 @@ Preheat oven to 375°F and set cookie sheets with parchment paper aside. Take do
 
 While the cookies are cooling, make the glaze by mixing powdered sugar and pomegranate juice together. Once cookies are completely cool, drizzle glaze onto cookies. Share with friends to add a pop of color to your day! 
 
-![](EarlGreyShortbread3.jpeg)
+![](EarlGreyShortbread3.jpg)
 

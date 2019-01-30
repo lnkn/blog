@@ -2,7 +2,7 @@
 title: Gingerbread Bundt Cake with Maple Glaze
 description : I loved bringing this cake to my holiday party and I am sure it will be a hit at your next gathering! 
 date: '2018-12-22'
-image: GingerbreadBundtCake.jpeg
+image: GingerbreadBundtCake.jpg
 lead: This beauty is just asking to be baked and sliced into.
 ---
 *This Gingerbread Bundt Cake with Maple Glaze is a total showstopper. It is filled with the perfect amount of ginger, molasses, and sweetness to create a deliciously soft and flavorful cake. I hope you enjoy it as much as I did!*

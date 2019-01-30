@@ -2,7 +2,7 @@
 title: Peanut Butter Cookies
 description : A true classic- peanut butter cookies. I have always loved peanut butter cookies and I hope you enjoy these soft sweet bites!
 date: '2018-11-18'
-image: PeanutButterCookie.jpeg
+image: PeanutButterCookie.jpg
 lead: My motto is- the more peanut butter, the better. 
 ---
 *A true classic: Peanut Butter Cookies. I have always loved Peanut Butter Cookies and I hope you enjoy these soft sweet bites!*
