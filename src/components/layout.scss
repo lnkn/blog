@@ -108,6 +108,25 @@ ul.nav__links {
     }
 }
 
+  
+@media  (max-width: 480px) {
+    .header{
+        .navlinks {
+            a {
+                padding-top: 16px;
+                font-size:16px;
+            }
+            .navlinks__logo {
+                font-size: 22px;
+                padding-top: 0;
+            }
+        }
+        .navlinks__logo{
+            font-size: 24px
+        }
+    }
+}
+
 .hidehome {
     display: none;
 }
