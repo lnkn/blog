@@ -80,17 +80,14 @@ ul.nav__links {
     box-shadow: 0 1px 0 rgba(0, 0, 0, .04), 0 1px 2px rgba(0, 0, 0, .04), 0 5px 9px rgba(0, 0, 0, .02);
     .navlinks {
         width: 100%;
-        max-width: 1200px;
         display: flex;
         margin: 0 auto;
         transition: all 300ms;
         a {
-            display: inline-block;
             transition: all 100ms;
             text-decoration: none;
             color: #000;
             padding-top: 22px;
-            text-align: right
         }
         .navlinks__logo {
             margin-right: auto;
@@ -102,7 +99,6 @@ ul.nav__links {
             letter-spacing: -1.1px;
             font-family: poynter-oldstyle-display, Georgia, 'Times New Roman', Times, serif;
             padding-top: 0;
-            padding-left:30px;
             &:hover:after {
                 -webkit-transform: scaleX(0);
                 transform: scaleX(0)
