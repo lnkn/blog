@@ -64,7 +64,7 @@ ul.nav__links {
 .wrapper {
     z-index: 10;
     position: relative;
-    padding: 98px 0em 30px
+    padding: 90px 0em 30px
 }
 
 .header {
@@ -125,6 +125,11 @@ ul.nav__links {
             font-size: 24px
         }
     }
+    .wrapper {
+        z-index: 10;
+        position: relative;
+        padding: 60px 0em 10px
+    }
 }
 
 .hidehome {
@@ -173,15 +178,15 @@ ul.nav__links {
         width: 260px;
         left: 0;
         right: 0;
-        top: 136px;
+        top: 100px;
         box-shadow: 0 1px 0 rgba(0, 0, 0, .02), 0 1px 2px rgba(0, 0, 0, .02), 0 5px 15px rgba(0, 0, 0, 0.08);
     }
 }
 
 .about__content {
     border: 2px solid black;
-    margin: 120px auto 0;
-    padding: 170px 80px 100px;
+    margin: 100px auto 0;
+    padding: 160px 80px 100px;
     background: white;
     max-width: 640px;
     box-shadow: 0 1px 0 rgba(0, 0, 0, .02), 0 1px 2px rgba(0, 0, 0, .02), 0 5px 15px rgba(0, 0, 0, 0.08);

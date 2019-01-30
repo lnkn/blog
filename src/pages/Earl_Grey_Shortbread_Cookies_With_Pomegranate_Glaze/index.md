@@ -13,10 +13,7 @@ lead: Sometimes you just need a little bright pink in your life.
  28 Delicious Cookies
 
 ## Time:
-| Prep Time   	| Chill Time 	| Bake Time  	| Total Time    |
-|--------	    |--------	    |--------   	|------------	|
-| 10min    	    | 30min     	| 12min         | 52min       	|
-
+#### Prep time: 10 minutes | Chill time: 30 minutes | Bake time: 12 minutes | Total time: 52 minutes
 
 ## Ingredients:
 
