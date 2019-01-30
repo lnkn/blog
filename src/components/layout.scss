@@ -90,6 +90,7 @@ ul.nav__links {
             text-decoration: none;
             color: #000;
             padding-top: 22px;
+            text-align: right
         }
         .navlinks__logo {
             margin-right: auto;
@@ -101,6 +102,7 @@ ul.nav__links {
             letter-spacing: -1.1px;
             font-family: poynter-oldstyle-display, Georgia, 'Times New Roman', Times, serif;
             padding-top: 0;
+            padding-left:30px;
             &:hover:after {
                 -webkit-transform: scaleX(0);
                 transform: scaleX(0)
