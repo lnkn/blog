@@ -3,12 +3,15 @@ import { Link, graphql } from 'gatsby'
 import './post-list.scss';
 import Layout from '../components/layout'
 import Img from 'gatsby-image';
+// import Home from '../components/Home'
 
 const IndexPage = (props) => {
   const postList = props.data.allMarkdownRemark;
   return (
     <div>
+		 
       <Layout>
+	  	{/* <Home/> */}
           {postList.edges.map(({ node }, i) => (
             <Link to={node.fields.slug} key={i} className="post-list">
                 {/* <img src={node.fontmatter.image.childImgage.sharp}></img> */}

@@ -11,10 +11,12 @@ class Layout extends Component {
 
     var postList
 
-    if (this.props.children.length > 2 ) {
-      postList = "post-list-wrapper__many"
-    } else {
+    console.log(this.props.children.length)
+
+    if (this.props.children.length <= 2 ) {
       postList = "post-list-wrapper__one"
+    } else {
+      postList = "post-list-wrapper__many"
     }
     // console.log(this.props.children.length)
     return (

@@ -1,9 +1,9 @@
 import React from 'react'
 
-import Layout from '../components/layout'
+import Single from '../components/Single'
 
 const Contact = () => (
-  <Layout>
+  <Single>
     <div className="page contact">
       <div>
         <h1>Say Hello!</h1>
@@ -39,7 +39,7 @@ const Contact = () => (
         </form>
       </div>
     </div>
-  </Layout>
+  </Single>
 )
 
 export default Contact

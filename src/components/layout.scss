@@ -10,6 +10,7 @@ html {
     }
 }
 
+
 // nav styles ------------------------------------
 .nav__links {
     a {
@@ -105,6 +106,12 @@ ul.nav__links {
                 -webkit-transform: scaleX(0);
                 transform: scaleX(0)
             }
+        }
+        .navlinks__about{
+            margin-left:20px;
+        }
+        .navlinks__contact{
+            margin-right:20px;
         }
     }
 }
@@ -344,11 +351,11 @@ ul.nav__links {
 .spinner-outer-svg {
     bottom: 0;
     -webkit-animation-name: spin-clockwise;
-    -webkit-animation-duration: 7s;
+    -webkit-animation-duration: 20s;
     -webkit-animation-iteration-count: infinite;
     -webkit-animation-timing-function: linear;
     animation-name: spin-clockwise;
-    animation-duration: 7s;
+    animation-duration: 20s;
     animation-iteration-count: infinite;
     animation-timing-function: linear;
     -ms-animation-name: none

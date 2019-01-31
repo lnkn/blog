@@ -1,10 +1,10 @@
 import React from 'react'
 // import { Link } from 'gatsby'
 import zoeprofile from '../images/zoe.png'
-import Layout from '../components/layout'
+import Single from '../components/Single'
 
 const About = () => (
-  <Layout>
+  <Single>
       <div className="page about">
       <div className="about__main">
           <div>
@@ -32,7 +32,7 @@ const About = () => (
           </div>
       </div>
     </div>
-  </Layout>
+  </Single>
 )
 
 export default About
