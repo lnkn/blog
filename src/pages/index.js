@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
 import './post-list.scss';
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 import Img from 'gatsby-image';
 // import Home from '../components/Home'
 

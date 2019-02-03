@@ -1,5 +1,5 @@
 import React from 'react'
-// import { Link } from 'gatsby'
+import './about.css'
 import zoeprofile from '../images/zoe.png'
 import Single from '../components/Single'
 

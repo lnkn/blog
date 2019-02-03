@@ -1,5 +1,5 @@
 import React from 'react';
-import Layout from '../components/layout';
+import Layout from '../components/Layout';
 import './blog-post.scss';
 import Img from 'gatsby-image';
 import Metatags from '../components/Metatags';
