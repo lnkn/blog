@@ -2,12 +2,12 @@
 title: Butterscotch Dark Chocolate Chunk Oat Cookies
 description : With the start of the year, I just had to share my version of the perfect cookie. You know, the one that checks all the boxes- sweet, chewy, chocolate, salty, and a little something extra? Well this Butterscotch Dark Chocolate Oat Cookie does all that (and more).
 date: '2019-01-01'
-image: ButterscotchDarkChocolateOat1.jpg
+image: ButterscotchDarkChocolateOat_1.jpg
 lead: This is a cookie worth eating. I promise.  
 ---
 *With the start of the year, I just had to share my version of the perfect cookie. You know, the one that checks all the boxes: sweet, chewy, chocolate, salty, and a little something extra? Well this Butterscotch Dark Chocolate Oat Cookie does all that (and more).*
  
- ![](ButterscotchDarkChocolateOat2.jpg)
+ ![](ButterscotchDarkChocolateOat_2.jpg)
 
 #### Prep time: 10 minutes | Bake time: 11 minutes | Total time: 21 minutes
 

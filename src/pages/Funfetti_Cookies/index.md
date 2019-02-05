@@ -2,7 +2,7 @@
 title: Funfetti Cookies
 description : Have you ever taken a bite of something and you were transported back to a childhood memory? These cookies do just that.  With the perfect amount of sprinkles, sugar, and vanilla; these soft and chewy cookies will be your new go to. Bake a batch (or two) and enjoy!
 date: '2018-10-1'
-image: Funfetti.jpg
+image: Funfetti_1.jpg
 lead: Sprinkles of joy are just ahead.
 ---
 
