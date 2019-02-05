@@ -23,7 +23,7 @@ html {
     height: 100%;
 
     &:hover {
-      color: #2326fb;
+      color: #bdd8f1;
     }
 
     &:after {
@@ -49,13 +49,13 @@ html {
     }
 
     &.active {
-      color: #2326fb;
+      color: #bdd8f1;
     }
 
     &.active:after {
       -webkit-transform: scaleX(1);
       transform: scaleX(1);
-      background: #2326fb;
+      background: #bdd8f1;
     }
   }
 }
@@ -70,7 +70,8 @@ ul.nav__links {
 .wrapper {
   z-index: 10;
   position: relative;
-  padding: 120px 20px 30px
+  padding: 120px 20px 30px;
+  background-color: #e1e8e8;
 }
 
 .header {
