@@ -54,7 +54,7 @@
     justify-content: flex-end;
     position: relative;
     overflow: hidden; 
-    border:2px black solid;
+    border:2px #ece1e1 solid;
     .gatsby-image-wrapper{
         border: 10px white solid;
     }
@@ -84,17 +84,17 @@
     font-weight: 300;
     color: #777;
     background: white;
-    padding: 14px 23px 23px 14px;
-    margin-bottom: 0;
-    border: 2px solid #efcfcf;
+    padding: 8px 10px 15px;
+    margin-bottom: 20px;
+    border: 3px solid #a9a6a6;
     box-shadow: 0 1px 0 rgba(0,0,0,.05), 0 1px 2px rgba(0,0,0,.05), 0 5px 10px rgba(0,0,0,0.17);
 }
 
 @media  (min-width: 767px) {
     .post-list__title{
-        padding: 14px 14px 23px;
+        padding: 10px 10px 15px;
         margin-bottom: 20px;
-        border: 2px solid black
+        border: 3px solid #cac3c3;
     }
 }
 
