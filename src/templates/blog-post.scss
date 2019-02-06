@@ -184,13 +184,13 @@ body {
     overflow-y: scroll;
   }
   * {
-    box-sizing: content-box;
+    box-sizing: inherit;
   }
   *:before {
     box-sizing: inherit;
   }
   *:after {
-    box-sizing: conte;
+    box-sizing: inherit;
   }
   body {
     color: hsla(0, 0%, 0%, 1);
