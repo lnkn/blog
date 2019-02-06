@@ -5,25 +5,28 @@ date: '2018-12-17'
 image: Truffles1.jpg
 lead: These little bites pack a chocolatey punch. 
 ---
-*Looking for the perfect homemade gift? Look no further! These Chocolate Truffles make such a great personalized gift. And the best part? You can totally make these your own! Use white chocolate or milk chocolate coating, go crazy with toppings! Mix’ n match or do all the same flavor. You get to choose!*
+Looking for the perfect homemade gift? Look no further! These Chocolate Truffles make such a great personalized gift. And the best part? You can totally make these your own! Use white chocolate or milk chocolate coating, go crazy with toppings! Mix’ n match or do all the same flavor. You get to choose!
 
 ![](Truffles2.jpg) 
 
+## The Recipe
+
+#### Yields: 40 truffles
 
 #### Prep time: 15 minutes | Chill time: 2 hours | Assembly time: 20 minutes | Total time: 2 hours 35 minutes
 
-**Yields: 40 truffles** 
-
-## Ingredients:
-
+## Ingredients
+#### The Truffles
 - 8 ounces **high quality bittersweet chocolate**
 - 8 ounces **high quality semisweet chocolate**
 - 14 ounces **sweetened condensed milk**
 - 2 teaspoons **vanilla extract**
 - 8 ounces **milk chocolate** 
-- Toppings: **flaky sea salt, candy canes, unsweetened cocoa powder and/or white chocolate**
 
-## Instructions:
+#### The Toppings (optional)
+- Flaky sea salt, candy canes, unsweetened cocoa powder and/or white chocolate
+
+## Instructions
 
 In a double boiler, or a glass bowl over simmering water, melt the high quality chocolate and sweetened condensed milk. Make sure the heat is on low and constantly stir the chocolate. The chocolate will turn into a thick mixture, that’s normal! Once all melted, take away from heat and add the vanilla. Stir until combined. Wrap bowl with foil and put in the fridge to chill for 2 hours. 
 

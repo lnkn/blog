@@ -5,14 +5,17 @@ date: '2018-09-26'
 image: chocolate_crinkle_cookies-2.jpg
 lead:  I have to say, these are something special.
 ---
-*Get ready for the fudgiest and most melt in your mouth cookies. These Chocolate Crinkle Cookies are such a staple and I have to say, these are some of the best!*
+Get ready for the fudgiest and most melt in your mouth cookies. These Chocolate Crinkle Cookies are such a staple and I have to say, these are some of the best!
 
-#### Prep time: 10 mimutes | Chill time: 2 hours | Bake time: 10 minutes | Total time: 2 hours 20 minutes
+## The Recipe
 
-#### Yields: 24 cookies
+#### Yields: 24 crinkle cookies
 
-## Ingredients:
+#### Prep time: 10 minutes | Chill time: 2 hours | Bake time: 10 minutes | Total time: 2 hours 20 minutes
 
+## Ingredients
+
+#### The Cookie
 - 1 3/4 cups **granulated sugar**
 - 1 cup **unsweetened cocoa powder**
 - 1/2 cup **vegetable oil**
@@ -23,7 +26,7 @@ lead:  I have to say, these are something special.
 - 1/2 teaspoon **salt**
 - 1/2 cup **powdered sugar**
 
-## Instructions:
+## Instructions
 
 In a mixer, combine cocoa powder, granulated sugar and vegetable oil. Mix for about 30 seconds. Add eggs and vanilla extract, mixing until ingredients are incorporated. Add flour, baking powder and salt and combine all the ingredients. Cover the dough and refrigerate for at least 2 hours.
 

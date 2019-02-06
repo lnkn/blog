@@ -637,7 +637,7 @@ body {
       }
     }
     h1{
-      font-size: 72px;
+      font-size: 60px;
       line-height: 1.1;
       margin: 0 auto 40px;
     }
@@ -650,7 +650,7 @@ body {
   }
     p.lead{
       font-size: 24px;
-      font-style: italic;
+      font-style: unset;
     }
     p.date{
       font-size: 14px;
@@ -676,9 +676,9 @@ body {
       padding:20px 0 20px 20px;
       margin-bottom:0;
       font-family: futura-pt, sans-serif;
-      text-transform: uppercase;
+      text-transform: unset;
       letter-spacing: 0.1rem;
-      border: 2px solid black;
+      border: 2px solid #ece1e1;
       }
       h4 + * {
         margin-top:20px;
@@ -688,7 +688,7 @@ body {
         list-style: none;
         padding:20px;
         margin-left: 0;
-        border: 2px solid black;
+        border: 2px solid #ece1e1;
         border-top: none;
         margin-top:0;
       }

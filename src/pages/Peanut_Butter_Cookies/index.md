@@ -1,18 +1,19 @@
 ---
 title: Peanut Butter Cookies
 description : A true classic- peanut butter cookies. I have always loved peanut butter cookies and I hope you enjoy these soft sweet bites!
-date: '2018-11-18'
+date: '2018-10-1'
 image: PeanutButterCookie.jpg
 lead: My motto is- the more peanut butter, the better. 
 ---
-*A true classic: Peanut Butter Cookies. I have always loved Peanut Butter Cookies and I hope you enjoy these soft sweet bites!*
+A true classic: Peanut Butter Cookies. I have always loved Peanut Butter Cookies and I hope you enjoy these soft sweet bites!
+
+## The Recipe
+#### Yields: 28 cookies
 
 #### Prep time: 10 minutes | Chill time: 1 hour | Bake time: 12 minutes | Total time: 1 hour 22 minutes
 
-**Yields: 28 cookies** 
-
-## Ingredients:
-
+## Ingredients
+#### The Cookie
 - 1 cup **unsalted butter**, softened
 - 1 cup **granulated sugar** + 2 tablespoons to sprinkle
 - 3/4 cup **light brown sugar**
@@ -24,7 +25,7 @@ lead: My motto is- the more peanut butter, the better.
 - 1 teaspoon **baking powder**
 - 1/2 teaspoon **salt**
 
-## Instructions:
+## Instructions
 
 In a large bowl, mix the butter and both sugars together for about a minute. Add the eggs and vanilla, mixing for another minute. Scrape down the sides and add the peanut butter, mixing until all ingredients are incorporated. 
 

@@ -1,19 +1,22 @@
 ---
 title: Funfetti Cookies
 description : Have you ever taken a bite of something and you were transported back to a childhood memory? These cookies do just that.  With the perfect amount of sprinkles, sugar, and vanilla; these soft and chewy cookies will be your new go to. Bake a batch (or two) and enjoy!
-date: '2018-10-1'
+date: '2018-09-22'
 image: Funfetti_1.jpg
 lead: Sprinkles of joy are just ahead.
 ---
 
-*Have you ever taken a bite of something and been transported back to a childhood memory? These cookies do just that.  This recipe is SO easy and quick, that you are just moments away from cookie heaven. With the perfect amount of sprinkles, sugar, and vanilla; these soft and chewy cookies will be your new go to. Bake a batch (or two) and enjoy!*
+Have you ever taken a bite of something and been transported back to a childhood memory? These cookies do just that. This recipe is SO easy and quick, that you are just moments away from cookie heaven. With the perfect amount of sprinkles, sugar, and vanilla; these soft and chewy cookies will be your new go to. Bake a batch (or two) and enjoy!
+
+## The Recipe
+These buttery sprinkle cookies are here to brighten your day.
+
+#### Yields: 18 sprinkle cookies
 
 #### Prep time: 15 minutes | Bake time: 10 minutes | Total time: 25 minutes
 
-**Yields: 18 cookies** 
-
-## Ingredients:
-
+## Ingredients
+#### The Cookie
 - 10 tablespoons **unsalted butter**, at room temperature
 - 3/4 cup **granulated sugar**
 - 1/3 cup **brown sugar** 
@@ -25,7 +28,7 @@ lead: Sprinkles of joy are just ahead.
 - 1/2 teaspoon **cream of tartar**
 - 1/2 cup **rainbow sprinkles**
 
-## Instructions:
+## Instructions
 
 Set the oven to 350°F and grab your non-stick cookie sheet. 
 

@@ -5,14 +5,16 @@ date: '2018-12-11'
 image: PeanutButterBlossoms1.jpg
 lead: Name a more iconic duo than chocolate and peanut butter. 
 ---
-*These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? I hope you enjoy these Peanut Butter Blossoms!*
+These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? I hope you enjoy these Peanut Butter Blossoms!
+
+## The Recipe
+
+#### Yields: 20 blossom cookies
 
 #### Prep time: 5 minutes | Chill time: 30 minutes | Bake time: 10 minutes | Total time: 45 minutes
 
-**Yields: 20 cookies** 
-
-## Ingredients:
-
+## Ingredients
+#### The Cookie
 - 1 stick  **unsalted butter**, softened
 - 1/4 cup **granulated sugar** + 1/4 cup for rolling
 - 1/2 cup **brown sugar** 
@@ -24,7 +26,7 @@ lead: Name a more iconic duo than chocolate and peanut butter.
 - 1/4 teaspoon **salt** 
 - 20 **chocolate kisses**, unwrapped
 
-## Instructions:
+## Instructions
 
 In a large mixing bowl, beat butter for 30 seconds. Add 1/4 cup granulated sugar and the brown sugar, mix together for a minute. Add the egg and vanilla, beat for another minute. Then, add the peanut butter and mix until all ingredients are incorporated, scraping down the sides of the bowl as necessary. Add dry ingredients and mix slowly, until combined.
 

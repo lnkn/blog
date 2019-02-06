@@ -5,14 +5,17 @@ date: '2018-11-14'
 image: DarkChocoCookie.jpg
 lead: I mean... who can resist dark chocolate and sea salt?
 ---
-*Who loves dark chocolate? I would much rather have dark chocolate everything than milk chocolate, but that’s just me! These Dark Chocolate Chunk Cookies will satisfy your sweets craving and with the addition of flaky sea salt, I can think of nothing better to splurge on!*
+Who loves dark chocolate? I would much rather have dark chocolate everything than milk chocolate, but that’s just me! These Dark Chocolate Chunk Cookies will satisfy your sweets craving and with the addition of flaky sea salt, I can think of nothing better to splurge on!
+
+## The Recipe
+
+#### Yields: 24 cookies
 
 #### Prep time: 15 minutes | Chill time: 10 minutes | Bake time: 12 minutes | Total time: 37 minutes
 
-**Yields: 24 cookies** 
 
-## Ingredients:
-
+## Ingredients
+#### The Cookie
 - 1 cup **unsalted butter**, softened
 - 3 1/4 cups **all-purpose flour**
 - 1 teaspoon **baking soda**
@@ -24,7 +27,7 @@ lead: I mean... who can resist dark chocolate and sea salt?
 - 12 ounces **dark chocolate** chunks or bars chopped into chunks (I use a mix of both!)
 - Flaky **sea salt**
 
-## Instructions:
+## Instructions
 
 Preheat oven to 350˚F. In a small saucepan melt the butter over very low heat, just until it is almost all melted, making sure it doesn’t brown. While the butter is melting, chop your chocolate and set aside (if not already in chunks). 
 

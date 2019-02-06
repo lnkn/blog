@@ -5,16 +5,20 @@ date: '2019-01-01'
 image: ButterscotchDarkChocolateOat_1.jpg
 lead: This is a cookie worth eating. I promise.  
 ---
-*With the start of the year, I just had to share my version of the perfect cookie. You know, the one that checks all the boxes: sweet, chewy, chocolate, salty, and a little something extra? Well this Butterscotch Dark Chocolate Oat Cookie does all that (and more).*
+With the start of the year, I just had to share my version of the perfect cookie. You know, the one that checks all the boxes: sweet, chewy, chocolate, salty, and a little something extra? Well this Butterscotch Dark Chocolate Oat Cookie does all that (and more).
  
  ![](ButterscotchDarkChocolateOat_2.jpg)
 
+## The Recipe
+This cookie is here to make your Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or Sunday. Really, any day is a good day for a cookie. 
+
+#### Yields: 22 delicious cookies
+
 #### Prep time: 10 minutes | Bake time: 11 minutes | Total time: 21 minutes
 
-**Yields: 22 cookies** 
+## Ingredients
 
-## Ingredients:
-
+#### The Cookie
 - 1 cup **unsalted butter**, softened
 - 1 1/2 cups **dark brown sugar**
 - 1 **large egg**
@@ -31,8 +35,7 @@ lead: This is a cookie worth eating. I promise.
 - Flaky **sea salt**
 
 
-## Instructions:
-
+## Instructions
 Preheat oven to 350°F. In a large mixing bowl, mix together butter and dark brown sugar; mixing on high until fluffy, for about 2 minutes. Scrape down the sides of the bowl to ensure all ingredients combined. Add the egg and mix for another 30 seconds. Add the vanilla and coconut, stirring until combined. 
 
 In a medium bowl, whisk together flour, oats, baking powder, baking soda, cinnamon and salt. Once mixed together, add to the bowl with wet ingredients, mixing slow until just combined. Add the dark chocolate chunks and butterscotch, until evenly distributed.

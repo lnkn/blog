@@ -1,18 +1,20 @@
 ---
 title: Salted Caramel Scotcheroos
 description : These bars make for such a great holiday treat and you will be reaching for your second scotcheroo in no time. 
-date: '2018-09-28'
+date: '2018-10-15'
 image: Scotcheroo1.jpg
 lead: Warning- baking these will result in happy friends and tummies. 
 ---
-*Salted Caramel Scotcheroos coming your way! I baked these incredible bars for a party and they were gone so fast that I almost felt bad I didn't bring more! These bars make for such a great treat and you will be reaching for your second scotcheroo in no time.*
+Salted Caramel Scotcheroos coming your way! I baked these incredible bars for a party and they were gone so fast that I almost felt bad I didn't bring more! These bars make for such a great treat and you will be reaching for your second scotcheroo in no time.
+
+## The Recipe
+
+#### Yields: 24 scotcheroo bars
 
 #### Prep time: 30 minutes | Chill time: 1 hour | Total time: 1 hour 30 minutes
 
-**Yields: 24 bars**  
-
-## Ingredients:
-
+## Ingredients
+#### The Bars
 - 1 cup **granulated sugar**
 - 6 tablespoons of **unsalted butter**
 - 1/2 cup heavy **whipping cream**
@@ -23,7 +25,7 @@ lead: Warning- baking these will result in happy friends and tummies.
 - 1 tablespoon **vegetable oil**
 - Flaky **sea salt** (optional)
 
-## Instructions:
+## Instructions
 
 Line a 9”x13” glass pan with parchment paper. 
 

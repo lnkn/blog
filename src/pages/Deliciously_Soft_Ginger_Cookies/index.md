@@ -1,18 +1,20 @@
 ---
 title: Deliciously Soft Ginger Cookies
 description :  These perfectly spiced and seriously soft cookies will become one of your new holiday favorites.
-date: '2018-09-30'
+date: '2018-09-20'
 image: deliciously_soft_ginger_cookies.jpg
-lead: Ginger Cookies should be Soft. Period.
+lead: Ginger Cookies should be soft. Period.
 ---
-*I don’t know about you, but I think chewy ginger cookies are one of the best fall traditions! These perfectly spiced and seriously soft cookies will become one of your new holiday favorites. Bring to a family gathering and let the cookies speak for themselves!*
+I don’t know about you, but I think chewy ginger cookies are one of the best fall traditions! These perfectly spiced and seriously soft cookies will become one of your new holiday favorites. Bring to a family gathering and let the cookies speak for themselves!
 
-#### Prep time: 15 minutes | Chill time: 1 hour | Bake time: 11 minutes | Total time: 1 hour 26 minutes
+## The Recipe
 
 #### Yields: 28 cookies
 
-## Ingredients:
+#### Prep time: 15 minutes | Chill time: 1 hour | Bake time: 11 minutes | Total time: 1 hour 26 minutes
 
+## Ingredients
+#### The Cookie
 - 1 cup **unsalted butter**, softened
 - 1/2 cup **granulated sugar**, divided
 - 3/4 cup **light brown sugar**
@@ -27,7 +29,7 @@ lead: Ginger Cookies should be Soft. Period.
 - 1 1/4 teaspoons **baking soda**
 - 1/4 teaspoon **salt**
 
-## Instructions:
+## Instructions
 
 In a large mixing bowl, add 1/4 cup granulated sugar, brown sugar and butter, and mix for about 2 minutes. Add the egg and vanilla, mixing together for about 30 seconds. Scrape down sides of bowl, then add the molasses and mix well, ensuring all the ingredients are combined. 
 

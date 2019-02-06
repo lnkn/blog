@@ -1,18 +1,21 @@
 ---
 title: Snickerdoodle Cookies
 description : •	These cinnamon and sugar cookies are just what you need! This easy recipe is quick and makes just the softest cookies. I hope you love them!
-date: '2018-11-21'
+date: '2018-10-05'
 image: Snickerdoodle1.jpg
 lead: The softest Snickerdoodle Cookies out there.
 ---
-*These Snickerdoodle Cookies are just what you need. With the perfect combination of cinnamon and sugar, you will be happy you made a batch of these cookies. This easy recipe is quick and makes just the softest cookies. I hope you love them!*
+These Snickerdoodle Cookies are just what you need. With the perfect combination of cinnamon and sugar, you will be happy you made a batch of these cookies. This easy recipe is quick and makes just the softest cookies. I hope you love them!
  
+
+## The Recipe
+
+#### Yields: 22 cinnamon sugar cookies
+
 #### Prep time: 10 minutes | Bake time: 12 minutes | Total time: 22 minutes
 
-**Yields: 22 cookies** 
-
-## Ingredients:
-
+## Ingredients
+#### The Cookie
 - 1 cup **unsalted butter**, softened
 - 1 1/2 cups **granulated sugar** + 2 tablespoons for rolling
 - 2 **large eggs**
@@ -22,7 +25,7 @@ lead: The softest Snickerdoodle Cookies out there.
 - 1/2 teaspoon **salt**
 - 2 teaspoons **ground cinnamon** for rolling
 
-## Instructions:
+## Instructions
 
 Preheat oven to 350˚F. In a large mixing bowl, mix butter and sugar together on medium for about a minute. Add the eggs and vanilla, stirring together for about another minute. 
 
