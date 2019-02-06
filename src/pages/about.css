@@ -4,7 +4,7 @@
 }
 
 .about__main img {
-  border: 2px solid black;
+  border: 2px solid #ece1e1;
   border-radius: 999px;
   margin: 0 auto;
   display: block;
@@ -17,7 +17,7 @@
 }
 
 .about__content {
-  border: 2px solid black;
+  border: 2px solid #ece1e1;
   margin: 100px auto 0;
   padding: 160px 80px 100px;
   background: white;

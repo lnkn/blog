@@ -27,7 +27,7 @@ const About = () => (
               So, here we are. Welcome to my so-called back-up plan. In the day, I work for a local nonprofit supporting children’s health, and by the night you will find me baking up a storm. I can’t wait to share my passion for baking and delicious eats with you.
             </p>
             <p>
-            Dare to get a little salty with me.
+            Let's get a little sweet and a little salty together.
             </p>
           </div>
       </div>
