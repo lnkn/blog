@@ -39,4 +39,4 @@ Heat the chocolate chips in a glass bowl in the microwave and add 1 teaspoon of 
 
 Let cool in the fridge or freezer for about an hour so that the bars set. Then, cut into squares and enjoy! 
 
-![](Scotcheroo3.jpg)
+![](Scotcheroo2.jpg)
