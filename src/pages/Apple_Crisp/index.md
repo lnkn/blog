@@ -2,7 +2,7 @@
 title: Apple Crisp
 description : This apple crisp was such a hit at two Thanksgiving dinners this past week! The top of the crisp is so deliciously full of oats and is the perfect ratio to apple.
 date: '2018-10-02'
-image: AppleCrisp1.jpg
+image: AppleCrisp2.jpg
 lead:  The best thing about Apple Crisp is it can be justified as a breakfast food. 
 ---
 When I go to a dinner party you can count on me bringing the dessert! This Apple Crisp is easy and makes the perfect dessert to any meal. The top of the crisp is so deliciously full of oats and is the perfect ratio to apple.
