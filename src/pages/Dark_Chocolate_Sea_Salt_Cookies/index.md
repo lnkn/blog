@@ -37,5 +37,5 @@ Cover the bowl with plastic wrap and refrigerate for about 10 minutes. Form the 
 
 Now, take a bit of these heavenly cookies while warm and melt into the salty sweet combination.  
 
-![](ChocoCookieSeaSalt2.jpg)
+![](DarkChocoCookie2.jpg)
 
