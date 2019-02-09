@@ -1,7 +1,7 @@
 ---
 title: Chocolate Dipped Thin Oat Cookies
 description : These delicate wafer cookies are the perfect combination of salty and sweet. With crispy edges and a chewy center, these Chocolate Dipped Thin Oat Cookies are just what you need right now. Warning, it is hard not to have just one. 
-date: '2018-2-01'
+date: '2019-02-01'
 image: ChocolateOat1.jpg
 lead: You are minutes away from cookie bliss. 
 ---
