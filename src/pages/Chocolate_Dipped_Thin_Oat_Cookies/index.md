@@ -1,6 +1,6 @@
 ---
 title: Chocolate Dipped Thin Oat Cookies
-description : These delicate wafer cookies are the perfect combination of salty and sweet. With crispy edges and a chewy center, these Chocolate Dipped Thin Oat Cookies are just what you need right now. Warning, it is hard not to have just one
+description : These delicate wafer cookies are the perfect combination of salty and sweet. With crispy edges and a chewy center, these Chocolate Dipped Thin Oat Cookies are just what you need right now. Warning, it is hard not to have just one. 
 date: '2018-2-01'
 image: ChocolateOat1.jpg
 lead: You are minutes away from cookie bliss. 
@@ -30,15 +30,15 @@ These are the perfect combination of salty and sweet. With crispy edges and a ch
 
 ## Instructions
 
-1.	Set the oven to 350°F and line two baking sheets with parchment paper. 
+1. Set the oven to 350°F and line two baking sheets with parchment paper. 
 
-2.	In a small saucepan, melt butter over medium-low heat. Once melted, remove from heat and whisk in honey and milk. 
+2. In a small saucepan, melt butter over medium-low heat. Once melted, remove from heat and whisk in honey and milk. 
 
-3.	Then, in a medium bowl stir together the flour, oats, sugar and baking powder. Pour butter mixture and vanilla into the dry ingredients. Stir until well combined, the mixture will be a bit gooey. 
+3. Then, in a medium bowl stir together the flour, oats, sugar and baking powder. Pour butter mixture and vanilla into the dry ingredients. Stir until well combined, the mixture will be a bit gooey. 
 
-4.	Spoon a heaping teaspoon of the dough onto the parchment paper, making sure there is plenty of space between each cookie. Bake for about 7-9 minutes or until cookies are browned around the edges. Remove from oven and let cool for about five minutes, then transfer to a wire rack to cool completely. 
+4. Spoon a heaping teaspoon of the dough onto the parchment paper, making sure there is plenty of space between each cookie. Bake for about 7-9 minutes or until cookies are browned around the edges. Remove from oven and let cool for about five minutes, then transfer to a wire rack to cool completely. 
 
-5.	While the cookies are cooling, melt the chocolate in a small heatproof bowl (I microwave for 20 seconds, stir and repeat until completely melted). Brush half of each cookie with the melted chocolate and sprinkle with flaky sea salt. 
+5. While the cookies are cooling, melt the chocolate in a small heatproof bowl (I microwave for 20 seconds, stir and repeat until completely melted). Brush half of each cookie with the melted chocolate and sprinkle with flaky sea salt. 
 
 
 ![](ChocolateOat2.jpg)
