@@ -3,9 +3,9 @@ title: Triple Chocolate Cookies
 description : These Triple Chocolate cookies are here to make all your chocolate dreams come true. Is there such a thing as too much chocolate? Seriously, I don’t think so. 
 date: '2019-01-29'
 image: TripleChocolate1.jpg
-lead: Chocolate is the cure for any bad day. 
+lead: Chocolate is always the cure.
 ---
-These Triple Chocolate cookies are here to make all your chocolate dreams come true. Is there such a thing as too much chocolate? Seriously,I don’t think so. 
+These cookies were some of the first that I ever baked and will continue to be such a staple. These Triple Chocolate Cookies are here to make all of your chocolate dreams come true. Is there such a thing as too much chocolate? Seriously, I don’t think so. 
  
 ![](TripleChocolate2.jpg)
 
