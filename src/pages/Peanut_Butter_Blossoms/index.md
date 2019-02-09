@@ -28,13 +28,15 @@ These deliciously soft peanut butter cookies are topped with a hersey kiss to gi
 
 ## Instructions
 
-In a large mixing bowl, beat butter for 30 seconds. Add 1/4 cup granulated sugar and the brown sugar, mix together for a minute. Add the egg and vanilla, beat for another minute. Then, add the peanut butter and mix until all ingredients are incorporated, scraping down the sides of the bowl as necessary. Add dry ingredients and mix slowly, until combined.
+1. In a large mixing bowl, beat butter for 30 seconds. Add 1/4 cup granulated sugar and the brown sugar, mix together for a minute. Add the egg and vanilla, beat for another minute. Then, add the peanut butter and mix until all ingredients are incorporated, scraping down the sides of the bowl as necessary. Add dry ingredients and mix slowly, until combined.
 
-Cover the bowl with plastic wrap and refrigerate for 30 minutes. Set oven to 350°F and line baking sheets with parchment paper. Put the other 1/4 cup of granulated rolling sugar in a shallow bowl. 
+2. Cover the bowl with plastic wrap and refrigerate for 30 minutes. Set oven to 350°F and line baking sheets with parchment paper. Put the other 1/4 cup of granulated rolling sugar in a shallow bowl. 
 
-Take dough out of fridge, and roll into 1 tablespoon size balls. Then roll ball into sugar and place on cookie sheet. Bake the cookies for 10 minutes. When cookies are baking, put chocolate kisses in the freezer to chill. When there is two minutes left of the bake time, take cookies out of the oven and press the chocolate kiss into the cookie (the cookie will slightly crack), then put back in oven for the last two minutes. 
+3. Take dough out of fridge, and form into 1 tablespoon size balls. Then roll ball into sugar and place on cookie sheet. Bake the cookies for 10 minutes. 
 
-Once the time is up, take out of the oven and let cool for five minutes before transferring to cooling rack. 
+4. While the cookies are baking, put chocolate kisses in the freezer to chill. When there is two minutes left of the bake time, take cookies out of the oven and press the chocolate kiss into the cookie (the cookie will slightly crack), then put back in oven for the last two minutes. 
+
+4. Once the time is up, take out of the oven and let cool for five minutes before transferring to cooling rack. 
 
 ![](PeanutButterBlossoms2.jpg)
 

@@ -27,13 +27,13 @@ A true classic: Peanut Butter Cookies. I have always loved Peanut Butter Cookies
 
 ## Instructions
 
-In a large bowl, mix the butter and both sugars together for about a minute. Add the eggs and vanilla, mixing for another minute. Scrape down the sides and add the peanut butter, mixing until all ingredients are incorporated. 
+1. In a large bowl, mix the butter and both sugars together for about a minute. Add the eggs and vanilla, mixing for another minute. Scrape down the sides and add the peanut butter, mixing until all ingredients are incorporated. 
 
-Add the flour, baking soda, baking powder and salt into the bowl. Mix slowly until combined. Refrigerate for about an hour (you can let it sit overnight if you want!). 
+2. Add the flour, baking soda, baking powder and salt into the bowl. Mix slowly until combined. Refrigerate for about an hour (you can let it sit overnight if you want!). 
 
-Set the oven to 350°F and put the extra granulated sugar in a shallow bowl. Roll balls of dough into about 2 tablespoon size balls and place a few inches apart on the non-stick cookie sheet. Put the fork into bowl of sugar, so some sugar sits on top of the fork, and press the fork down on the top of each dough ball to create a crisscross pattern (if sugar does not sit on the fork, make the crisscross pattern and then sprinkle sugar on top). 
+3. Set the oven to 350°F and put the extra granulated sugar in a shallow bowl. Roll balls of dough into about 2 tablespoon size balls and place a few inches apart on the non-stick cookie sheet. Put the fork into bowl of sugar, so some sugar sits on top of the fork, and press the fork down on the top of each dough ball to create a crisscross pattern (if sugar does not sit on the fork, make the crisscross pattern and then sprinkle sugar on top). 
 
-Bake for about 11-12 minutes. Remove from the oven and let cool on baking sheet for five minutes before moving to a cooling rack. There you have it! Delicious peanut butter cookies with a crispy outside and soft interior. 
+4. Bake for about 11-12 minutes. Remove from the oven and let cool on baking sheet for five minutes before moving to a cooling rack. There you have it! Delicious peanut butter cookies with a crispy outside and soft interior. 
 
 
 

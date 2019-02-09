@@ -6,7 +6,7 @@ image: Funfetti_1.jpg
 lead: Sprinkles of joy are just ahead.
 ---
 
-Have you ever taken a bite of something and been transported back to a childhood memory? These cookies do just that. This recipe is SO easy and quick, that you are just moments away from cookie heaven. With the perfect amount of sprinkles, sugar, and vanilla; these soft and chewy cookies will be your new go to. Bake a batch (or two) and enjoy!
+This recipe is SO easy and quick, that you are just moments away from cookie heaven. With the perfect amount of sprinkles, sugar, and vanilla; these soft and chewy cookies will be your new go to. Bake a batch (or two) and enjoy!
 
 ## The Recipe
 These buttery sprinkle cookies are here to brighten your day.
@@ -30,9 +30,9 @@ These buttery sprinkle cookies are here to brighten your day.
 
 ## Instructions
 
-Set the oven to 350°F and grab your non-stick cookie sheet. 
+1. Set the oven to 350°F and grab your non-stick cookie sheet. 
 
-In a large mixing bowl, cream the butter, sugar, and brown sugar on medium speed for about one minute. Add the vanilla and egg, mixing together until incorporated. Add the flour, baking soda, salt, and cream of tartar. Mix slow, ensuring all the ingredients are combined. Add the sprinkles and mix slow until combined. 
+2. In a large mixing bowl, cream the butter, sugar, and brown sugar on medium speed for about one minute. Add the vanilla and egg, mixing together until incorporated. Add the flour, baking soda, salt, and cream of tartar. Mix slow, ensuring all the ingredients are combined. Add the sprinkles and mix slow until combined. 
 
-Form the cookies with your hands in 1 1/2 tablespoon size balls. Place on the baking sheet a couple inches apart. Bake in the oven for about 10 minutes, or until the cookies begin to crack on the top a bit. Set aside to cool for about five minutes before removing to a cookie rack. 
+3. Form the cookies with your hands in 1 1/2 tablespoon size balls. Place on the baking sheet a couple inches apart. Bake in the oven for about 10 minutes, or until the cookies begin to crack on the top a bit. Set aside to cool for about five minutes before removing to a cookie rack. 
 

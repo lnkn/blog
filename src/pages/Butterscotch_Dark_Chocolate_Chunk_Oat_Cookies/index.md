@@ -36,11 +36,11 @@ This cookie is here to make your Monday, Tuesday, Wednesday, Thursday, Friday, S
 
 
 ## Instructions
-Preheat oven to 350°F. In a large mixing bowl, mix together butter and dark brown sugar; mixing on high until fluffy, for about 2 minutes. Scrape down the sides of the bowl to ensure all ingredients combined. Add the egg and mix for another 30 seconds. Add the vanilla and coconut, stirring until combined. 
+1. Preheat oven to 350°F. In a large mixing bowl, mix together butter and dark brown sugar; mixing on high until fluffy, for about 2 minutes. Scrape down the sides of the bowl to ensure all ingredients combined. Add the egg and mix for another 30 seconds. Add the vanilla and coconut, stirring until combined. 
 
-In a medium bowl, whisk together flour, oats, baking powder, baking soda, cinnamon and salt. Once mixed together, add to the bowl with wet ingredients, mixing slow until just combined. Add the dark chocolate chunks and butterscotch, until evenly distributed.
+2. In a medium bowl, whisk together flour, oats, baking powder, baking soda, cinnamon and salt. Once mixed together, add to the bowl with wet ingredients, mixing slow until just combined. Add the dark chocolate chunks and butterscotch, until evenly distributed.
 
-Form 1 tablespoon size balls with your hands and place on a non-stick cookie sheet, leaving a couple inches of space between cookies. Bake for 11 minutes and remove from heat, then sprinkle with flaky sea salt. Let cool on cookie sheet for five minutes before transferring to a cooling rack. 
+3. Form 1 tablespoon size balls with your hands and place on a non-stick cookie sheet, leaving a couple inches of space between cookies. Bake for 11 minutes and remove from heat, then sprinkle with flaky sea salt. Let cool on cookie sheet for five minutes before transferring to a cooling rack. 
 
 *Adapted from The Sweet and Simple Kitchen.*
 

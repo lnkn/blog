@@ -29,13 +29,13 @@ Who loves dark chocolate? I would much rather have dark chocolate everything tha
 
 ## Instructions
 
-Preheat oven to 350˚F. In a small saucepan melt the butter over very low heat, just until it is almost all melted, making sure it doesn’t brown. While the butter is melting, chop your chocolate and set aside (if not already in chunks). 
+1. Preheat oven to 350˚F. In a small saucepan melt the butter over very low heat, just until it is almost all melted, making sure it doesn’t brown. While the butter is melting, chop your chocolate and set aside (if not already in chunks). 
 
-In a large bowl, whisk the flour, baking powder, baking soda, and salt together. In another bowl, mix together the melted butter and sugars for about a minute. Add the eggs and vanilla, and mix for another 30 seconds. Combine your dry ingredients with the wet mixture and stir until all ingredients are fully incorporated. Once combined, add your chocolate to the dough and mix together just until chocoalte is evenly distributed. 
+2. In a large bowl, whisk the flour, baking powder, baking soda, and salt together. In another bowl, mix together the melted butter and sugars for about a minute. Add the eggs and vanilla, and mix for another 30 seconds. Combine your dry ingredients with the wet mixture and stir until all ingredients are fully incorporated. Once combined, add your chocolate to the dough and mix together just until chocoalte is evenly distributed. Cover the bowl with plastic wrap and refrigerate for about 10 minutes. 
 
-Cover the bowl with plastic wrap and refrigerate for about 10 minutes. Form the dough into 3 tablespoon size balls, place on the cookie sheet a couple inches apart, and press down each ball slightly so that they are a tad flattened. Sprinkle a little flaky sea salt on top and pop them in the oven for 11-13 minutes. Pull out of the oven and sprinkle a little more sea salt on top. Leave the cookies on the cookie sheet for a few minutes to cool and then transfer to a cooling rack. 
+3. Form the dough into 3 tablespoon size balls, place on the cookie sheet a couple inches apart, and press down each ball slightly so that they are slightly flattened. Sprinkle a little flaky sea salt on top and pop them in the oven for 11-13 minutes. 
 
-Now, take a bit of these heavenly cookies while warm and melt into the salty sweet combination.  
+4. Pull out of the oven and sprinkle a little more sea salt on top. Leave the cookies on the cookie sheet for a few minutes to cool and then transfer to a cooling rack. Now, take a bit of these heavenly cookies while warm and melt into the salty sweet combination.  
 
 ![](DarkChocoCookie2.jpg)
 

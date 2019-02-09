@@ -32,15 +32,15 @@ This Healthy Banana Bread with Chocolate Chunks is just dying to be baked this w
 - **Chocolate chunks**, optional
 
 ## Instructions
-Set oven to 325°F and grease a 9×5-inch loaf pan.
+1. Set oven to 325°F and grease a 9×5-inch loaf pan.
 
-In a large bowl, whisk coconut oil, honey and coconut sugar together. Add eggs and whisk ingredients together. Next, mix in the mashed bananas and milk. 
+2. In a large bowl, whisk coconut oil, honey and coconut sugar together. Add eggs and whisk ingredients together. Next, mix in the mashed bananas and milk. 
 
-Add the vanilla, baking soda, cinnamon and salt. Whisk together into the wet ingredients. Then, add 1 cup of the flour and whisk into the wet ingredients. Next, using a spatula, add the flour a quarter cup at a time until the flour is just incorporated. 
+3. Add the vanilla, baking soda, cinnamon and salt. Whisk together into the wet ingredients. Then, add 1 cup of the flour and whisk into the wet ingredients. Next, using a spatula, add the flour a quarter cup at a time until the flour is just incorporated. 
 
-Pour the batter into the greased loaf pan and evenly spread it out. Then, sprinkle the chocolate chunks on top! 
+4. Pour the batter into the greased loaf pan and evenly spread it out. Sprinkle the chocolate chunks on top and bake for 55-60 minutes, until a toothpick inserted into the loaf comes out clean. 
 
-Bake for 55 -60 minutes, until a toothpick inserted into the loaf comes out clean. Let the bread cool in the pan for about 10 minutes until taking out of pan. Then transfer to wire rack to cool an additional 15 minutes before slicing. 
+5. Let the bread cool in the pan for about 10 minutes until taking out of pan. Then transfer to wire rack to cool an additional 15 minutes before slicing. 
 
 
 ![](BananaBread3.jpg)

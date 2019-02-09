@@ -27,19 +27,20 @@ Jumping on the citrus train with these deliciously Baked Cara Cara Orange Donuts
 - 1 **Cara Cara orange**, zested
 - 1 teaspoon **vanilla extract**
 
-#### The Glaze:
+#### The Glaze
 - 1 cup **powdered sugar**
 - 2 1/2 tablespoons **milk**
 
 ## Instructions
-Preheat the oven to 350°F.  Spray your donut pan with non-stick cooking spray and set aside. 
+1. Preheat the oven to 350°F.  Spray your donut pan with non-stick cooking spray and set aside. 
 
-In a large mixing bowl, whisk together flour, baking powder and salt. In a separate mixing bowl, whisk together the sugar, milk, egg, butter, orange juice, orange zest and vanilla. Pour wet mixture into the dry ingredients and stir until all ingredients are just incorporated. Spoon the batter into the cavities of the donut pan, making sure to only fill 3/4 worth.  The batter should be spread evenly between eight cavities. 
+2. In a large mixing bowl, whisk together flour, baking powder and salt. In a separate mixing bowl, whisk together the sugar, milk, egg, butter, orange juice, orange zest and vanilla. Pour wet mixture into the dry ingredients and stir until all ingredients are just incorporated. Spoon the batter into the cavities of the donut pan, making sure to only fill 3/4 worth.  The batter should be spread evenly between eight cavities. 
 
-Bake for about 9 minutes or until edges start to slightly brown. Remove from the oven and allow to cool for about five minutes. Then, place on cooling rack to cool an additional 10 minutes. 
+3. Bake for about 9 minutes or until edges start to slightly brown. Remove from the oven and allow to cool for about five minutes. Then, place on cooling rack to cool an additional 10 minutes. 
 
-While the donuts are cooling, in a small shallow bowl make the glaze by whisking together the powdered sugar and milk. Once the donuts are completely cool, dip the donuts into the glaze and top with an orange slice! 
+4. While the donuts are cooling, in a small shallow bowl make the glaze by whisking together the powdered sugar and milk. Once the donuts are completely cool, dip the donuts into the glaze and top with an orange slice! 
 
+*Note: Best eaten day of.*
 
 ![](CaraCaraDonut2.jpg)
 

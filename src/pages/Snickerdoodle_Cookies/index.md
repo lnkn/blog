@@ -27,12 +27,12 @@ These Snickerdoodle Cookies are just what you need. With the perfect combination
 
 ## Instructions
 
-Preheat oven to 350˚F. In a large mixing bowl, mix butter and sugar together on medium for about a minute. Add the eggs and vanilla, stirring together for about another minute. 
+1. Preheat oven to 350˚F. In a large mixing bowl, mix butter and sugar together on medium for about a minute. Add the eggs and vanilla, stirring together for about another minute. 
 
-In another bowl, add the flour, baking powder and salt. Stir together and then add to the other mixing bowl, combining the wet and dry ingredients. Mix slowly, ensuring all ingredients are combined. 
+2. In another bowl, add the flour, baking powder and salt. Stir together and then add to the other mixing bowl, combining the wet and dry ingredients. Mix slowly, ensuring all ingredients are combined. 
 
-In a small bowl, stir the 2 tablespoons of sugar and cinnamon together. Form the dough into 2 tablespoon size balls and roll into the cinnamon sugar mix. Place on a non-stick cookie sheet and make sure each dough ball is a few inches apart. Bake for about 12-14 minutes. 
+3. In a small bowl, stir the 2 tablespoons of sugar and cinnamon together. Form the dough into 2 tablespoon size balls and roll into the cinnamon sugar mix. Place on a non-stick cookie sheet and make sure each dough ball is a few inches apart. Bake for about 12-14 minutes. 
 
-Remove from oven and let cookies cool on the cookie sheet for five minutes before removing to a cooling rack. 
+4. Remove from oven and let cookies cool on the cookie sheet for five minutes before removing to a cooling rack. 
 
 

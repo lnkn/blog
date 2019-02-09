@@ -7,7 +7,7 @@ const Contact = () => (
     <div className="page contact">
       <div>
         <h1>Say hello! </h1>
-        <p>Have a question about a recipe? <br/> Looking to collaborate? <br/> We would love to hear from you! <br/> </p>
+        <p>Have a question about a recipe? <br/> Looking to collaborate? <br/> I would love to hear from you! <br/> </p>
       </div>
       <div>
         <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">

@@ -37,13 +37,13 @@ This Gingerbread Bundt Cake with Maple Glaze is a total showstopper. It is fille
 
 ## Instructions
 
-Preheat oven to 350°F. Grease and flour a 10 cup bundt pan and set aside.
+1. Preheat oven to 350°F. Grease and flour a 10 cup bundt pan and set aside.
 
-In a medium sized bowl whisk the dry ingredients: flour, baking soda, baking powder, salt, and spices. In a standing mixing bowl, add eggs, brown sugar, melted butter, buttermilk, and molasses. Mix on low until combined, for about 30 seconds. Scrape down the sides of the bowl to make sure all ingredientas are incorporated. Add the dry ingredients into the wet ingredients. Mix slowly until everything is combined.
+2. In a medium sized bowl whisk the dry ingredients: flour, baking soda, baking powder, salt, and spices. In a standing mixing bowl, add eggs, brown sugar, melted butter, buttermilk, and molasses. Mix on low until combined, for about 30 seconds. Scrape down the sides of the bowl to make sure all ingredientas are incorporated. Add the dry ingredients into the wet ingredients. Mix slowly until everything is combined.
 
-Pour the batter into your prepared bundt pan. Bake for about 45 minutes, or until a toothpick is inserted and comes out mostly clean. Let the cake cool in the pan for about 15 minutes. Invert cake onto cake stand. Allow to cool for additional 10 minutes, or until room temp.
+3. Pour the batter into your prepared bundt pan. Bake for about 45 minutes, or until a toothpick is inserted and comes out mostly clean. Let the cake cool in the pan for about 15 minutes. Invert cake onto cake stand. Allow to cool for additional 10 minutes, or until room temp.
 
-While the cake is cooling, make the maple glaze by whisking powdered sugar, maple syrup, and milk in a small bowl until combined. Pour the glaze over the cake once the cake is completely cool. Slice, serve and enjoy!
+4. While the cake is cooling, make the maple glaze by whisking powdered sugar, maple syrup, and milk in a small bowl until combined. Pour the glaze over the cake once the cake is completely cool. Slice, serve and enjoy!
 
 *Inspired by Salt & Baker.* 
 

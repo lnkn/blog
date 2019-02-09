@@ -28,11 +28,11 @@ Get ready for the fudgiest and most melt in your mouth cookies. These Chocolate 
 
 ## Instructions
 
-In a mixer, combine cocoa powder, granulated sugar and vegetable oil. Mix for about 30 seconds. Add eggs and vanilla extract, mixing until ingredients are incorporated. Add flour, baking powder and salt and combine all the ingredients. Cover the dough and refrigerate for at least 2 hours.
+1. In a mixer, combine cocoa powder, granulated sugar and vegetable oil. Mix for about 30 seconds. Add eggs and vanilla extract, mixing until ingredients are incorporated. Add flour, baking powder and salt and combine all the ingredients. Cover the dough and refrigerate for at least 2 hours.
 
-Preheat oven to 350°F. With your hands, roll balls of dough into 2 tablespoons size balls and place on a non-stick cookie sheet. Then, once all balls are formed, roll into a shallow bowl filled with powdered sugar and place onto sheet. 
+2. Preheat oven to 350°F. With your hands, roll balls of dough into 2 tablespoons size balls and place on a non-stick cookie sheet. Then, once all balls are formed, roll into a shallow bowl filled with powdered sugar and place onto sheet. 
 
-Bake for 10 minutes. Remove from oven and let cool for three-five minutes before transferring to a cooling rack. Take a bite of these fudgy cookies and savor the chocolaty goodness!
+3. Bake for 10 minutes. Remove from oven and let cool for three-five minutes before transferring to a cooling rack. Take a bite of these fudgy cookies and savor the chocolaty goodness!
 
 ![](chocolate_crinkle_cookies.jpg)
 
