@@ -5,7 +5,7 @@ date: '2019-01-29'
 image: TripleChocolate1.jpg
 lead: Chocolate is always the cure.
 ---
-These cookies were some of the first that I ever baked and will continue to be such a staple. These Triple Chocolate Cookies are here to make all of your chocolate dreams come true. Is there such a thing as too much chocolate? Seriously, I don’t think so. 
+These Triple Chocolate Cookies were some of the first that I ever baked and will continue to be such a staple. And I promise these are here to make all of your chocolate dreams come true. Is there such a thing as too much chocolate? Seriously, I don’t think so. 
  
 ![](TripleChocolate2.jpg)
 
