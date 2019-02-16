@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import zoeprofile from '../images/zoe2.jpg'
+import zoeprofile from '../images/zoe5.jpg'
 import Single from '../components/Single'
 
 const About = () => (
@@ -8,7 +8,7 @@ const About = () => (
       <div className="page about">
       <div className="about__main">
           <div>
-            <img src={zoeprofile} alt="zoe2"></img>
+            <img src={zoeprofile} alt="zoe5"></img>
           </div>
           <div className="about__content">
             <p>
