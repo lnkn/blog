@@ -1,13 +1,14 @@
 ---
 title: Deliciously Soft Ginger Cookies
 description :  These perfectly spiced and seriously soft cookies will become one of your new holiday favorites.
-date: '2018-09-20'
+date: '2018-11-11'
 image: deliciously_soft_ginger_cookies.jpg
 lead: Ginger Cookies should be soft. Period.
 ---
 I don’t know about you, but I think chewy ginger cookies are one of the best fall traditions! These perfectly spiced and seriously soft cookies will become one of your new holiday favorites. Bring to a family gathering and let the cookies speak for themselves!
 
 ## The Recipe
+### November 11, 2018
 
 #### Yields: 28 cookies
 

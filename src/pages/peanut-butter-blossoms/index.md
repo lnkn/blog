@@ -8,6 +8,7 @@ lead: Name a more iconic duo than chocolate and peanut butter.
 These deliciously soft peanut butter cookies are topped with a hersey kiss to give you the best combination out there- peanut butter and chocolate. Who else agrees that peanut butter and chocolate are truly one of the best duos? I hope you enjoy these Peanut Butter Blossoms!
 
 ## The Recipe
+### December 11, 2018
 
 #### Yields: 20 blossom cookies
 

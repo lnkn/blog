@@ -1,7 +1,7 @@
 ---
 title: Healthy Chocolate Chunk Banana Bread
 description : This Healthy Banana Bread with Chocolate Chunks is just dying to be baked this weekend! This loaf is extremely soft and minimally sweet so that you can indulge without feeling guilty. And the best part? You can change it up and top the bread with nuts, more chocolate, or leave it plain!
-date: '2019-01-05'
+date: '2019-01-20'
 image: BananaBread1.jpg
 lead: I mean... just look at those chunks.
 ---
@@ -10,6 +10,7 @@ This Healthy Banana Bread with Chocolate Chunks is just dying to be baked this w
 ![](BananaBread2.jpg)
 
 ## The Recipe
+### January 20, 2019
 
 #### Yields: 1 9"x5" loaf 
 

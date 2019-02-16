@@ -1,13 +1,14 @@
 ---
 title: Chocolate Crinkle Cookies 
 description : Get ready for the fudgiest and most melt in your mouth cookies. These Chocolate Crinkle Cookies are such a staple and I have to say, these are some of the best! 
-date: '2018-09-26'
+date: '2018-12-05'
 image: chocolate_crinkle_cookies-2.jpg
 lead:  I have to say, these are something special.
 ---
 Get ready for the fudgiest and most melt in your mouth cookies. These Chocolate Crinkle Cookies are such a staple and I have to say, these are some of the best!
 
 ## The Recipe
+### December 5, 2018
 
 #### Yields: 24 crinkle cookies
 

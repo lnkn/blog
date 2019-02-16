@@ -1,7 +1,7 @@
 ---
 title: Snickerdoodle Cookies
 description : •	These cinnamon and sugar cookies are just what you need! This easy recipe is quick and makes just the softest cookies. I hope you love them!
-date: '2018-10-05'
+date: '2018-11-21'
 image: Snickerdoodle1.jpg
 lead: The softest Snickerdoodle Cookies out there.
 ---
@@ -9,6 +9,7 @@ These Snickerdoodle Cookies are just what you need. With the perfect combination
  
 
 ## The Recipe
+### November 21, 2018
 
 #### Yields: 22 cinnamon sugar cookies
 

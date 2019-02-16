@@ -10,6 +10,7 @@ Looking for the perfect homemade gift? Look no further! These Chocolate Truffles
 ![](Truffles2.jpg) 
 
 ## The Recipe
+### December 17, 2018
 
 #### Yields: 40 truffles
 

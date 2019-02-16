@@ -10,6 +10,7 @@ I have been craving something different lately and knew I wanted to incorporate 
 ![](EarlGreyShortbread2.jpg)
 
 ## The Recipe
+### January 6, 2019
 
 #### Yields: 28 colorful cookies
 

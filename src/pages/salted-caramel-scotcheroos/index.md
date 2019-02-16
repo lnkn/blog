@@ -1,13 +1,14 @@
 ---
 title: Salted Caramel Scotcheroos
 description : These bars make for such a great holiday treat and you will be reaching for your second scotcheroo in no time. 
-date: '2018-10-15'
+date: '2018-12-02'
 image: Scotcheroo1.jpg
 lead: Warning- baking these will result in happy friends and tummies. 
 ---
 Salted Caramel Scotcheroos coming your way! I baked these incredible bars for a party and they were gone so fast that I almost felt bad I didn't bring more! These bars make for such a great treat and you will be reaching for your second scotcheroo in no time.
 
 ## The Recipe
+### December 2, 2018
 
 #### Yields: 24 scotcheroo bars
 

@@ -8,6 +8,7 @@ lead: This beauty is just asking to be baked and sliced into.
 This Gingerbread Bundt Cake with Maple Glaze is a total showstopper. It is filled with the perfect amount of ginger, molasses, and sweetness to create a deliciously soft and flavorful cake. I hope you enjoy it as much as I did!
  
 ## The Recipe
+### December 22, 2018
 
 #### Yields: 1 bundt cake
 

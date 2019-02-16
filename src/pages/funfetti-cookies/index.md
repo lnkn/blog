@@ -1,7 +1,7 @@
 ---
 title: Funfetti Cookies
 description : Have you ever taken a bite of something and you were transported back to a childhood memory? These cookies do just that.  With the perfect amount of sprinkles, sugar, and vanilla; these soft and chewy cookies will be your new go to. Bake a batch (or two) and enjoy!
-date: '2018-09-22'
+date: '2018-11-06'
 image: Funfetti_1.jpg
 lead: Sprinkles of joy are just ahead.
 ---
@@ -9,6 +9,7 @@ lead: Sprinkles of joy are just ahead.
 This recipe is SO easy and quick, that you are just moments away from cookie heaven. With the perfect amount of sprinkles, sugar, and vanilla; these soft and chewy cookies will be your new go to. Bake a batch (or two) and enjoy!
 
 ## The Recipe
+### November 6, 2018
 These buttery sprinkle cookies are here to brighten your day.
 
 #### Yields: 18 sprinkle cookies
