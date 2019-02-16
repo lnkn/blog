@@ -10,6 +10,7 @@ When I go to a dinner party you can count on me bringing the dessert! This Apple
 But the best part about this Apple Crisp? It makes THE best leftovers for the morning. Seriously, make sure you save some to have in the morning as a little oaty treat!
 
 ## The Recipe
+### October 2, 2018
 
 #### Prep time: 20 minutes | Bake time: 55 minutes | Total time: 1 hour and 15 minutes
 

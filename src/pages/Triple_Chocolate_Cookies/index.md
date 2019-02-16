@@ -9,7 +9,8 @@ These Triple Chocolate Cookies were some of the first that I ever baked and will
  
 ![](TripleChocolate2.jpg)
 
-## The Recipe
+## The Recipe 
+### January 29, 2019
 
 #### Yields: 20 chocolate cookies
 
