@@ -5,11 +5,11 @@ date: '2019-02-16'
 image: ChaiLatteScone1.jpg
 lead: This scone is the real freaking deal.
 ---
-So I may make an unpopular statement, but I have never been the biggest fan of scones. I know, I know- “seriously, Zoe? What is wrong with you?” Truth is, the ones I ate just did not impress me. If I am going to eat something sweet I want it to be delicious. Well friends, I can finally say I am now a scone believer. 
+So I may make an unpopular statement, but I have never been the biggest fan of scones. I know, I know- “seriously, Zoe? What is wrong with you?” Truth is, the ones I ate just did not impress me. If I am going to eat a scone I want it to be soft, stacked with layers, and delicious. Well friends, I can finally say I am now a scone believer. 
 
 ![](ChaiLatteScone4.jpeg)
 
-You haven’t had a true scone until you try these incredible Spiced Chai Latte Scones. These are seriously what scone dreams are made of. Fluffy, full of beautfiul layers, and complete with amazing flavor. I can’t get enough of these and I promise you won’t be able to either!
+You haven’t had a true scone until you try these incredible Spiced Chai Latte Scones. These are seriously what scone dreams are made of. Fluffy, so soft, full of beautfiul layers, and complete with amazing flavor. I can’t get enough of these and I promise you won’t be able to either!
 
 ## The Recipe
 ### February 16, 2019
@@ -37,7 +37,7 @@ You haven’t had a true scone until you try these incredible Spiced Chai Latte 
 - 2 teaspoons **vanilla extract**
 - 1 **large egg**
 - 1 tablespoon **melted butter**
-- **Derma sugar** for sprinkling 
+- **Demerara sugar** for sprinkling 
 
 #### The Chai Glaze
 - 1 cup **powdered sugar**
@@ -53,10 +53,10 @@ You haven’t had a true scone until you try these incredible Spiced Chai Latte 
 
 4. Place dough on a lightly floured surface. Gently form dough into a square and then fold the right half of the dough over the left half. Repeat this step four times. This will help create amazing layers in your scone. Then, lightly pat the dough down to form the dough into a 1-2 inch thick rectangle. Next, with a serrated knife cut the dough lengthwise. Then cut each half into six scones, equaling 12 scones total. 
 
-5. Place six scones onto each prepared baking sheet. Brush the tops of the scones with the melted butter and sprinkle with derma sugar.
+5. Place six scones onto each prepared baking sheet. Brush the tops of the scones with the melted butter and sprinkle with demerara sugar.
 
 6. Baking one sheet at a time, bake scones for 20-22 minutes, until the tops are golden. Once scones are done baking, allow to cool on sheet for five minutes before transferring to a cooling rack to cool for an additional 10 minutes. When the scones are cooling, make your glaze by whisking together powdered sugar, maple syrup and chai tea until smooth. Drizzle glaze over the scones to complete.
 
 *Adapted from The Sweet and Simple Kitchen*
 
-
+![](ChaiLatteScone5.jpg)
