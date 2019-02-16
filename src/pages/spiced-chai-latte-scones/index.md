@@ -7,7 +7,7 @@ lead: This scone is the real freaking deal.
 ---
 So I may make an unpopular statement, but I have never been the biggest fan of scones. I know, I know- “seriously, Zoe? What is wrong with you?” Truth is, the ones I ate just did not impress me. If I am going to eat something sweet I want it to be delicious. Well friends, I can finally say I am now a scone believer. 
 
-![](ChaiLatteScone2.jpg)
+![](ChaiLatteScone3.jpg)
 
 You haven’t had a true scone until you try these incredible Spiced Chai Latte Scones. These are seriously what scone dreams are made of. Fluffy, full of layers, and full of flavor. I can’t get enough of these and I promise you won’t be able to either!
 
