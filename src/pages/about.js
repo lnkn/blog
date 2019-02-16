@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import zoeprofile from '../images/zoe2.png'
+import zoeprofile from '../images/zoe2.jpg'
 import Single from '../components/Single'
 
 const About = () => (
