@@ -2,12 +2,12 @@
 title: Vegan Chocolate Fudge
 description : I am having some serious chocolate cravings, anyone else get those? I whipped up a batch of these Vegan Chocolate Fudge bars and they seriously fixed my craving. These will be staying in my freezer as a quick fix for when another chocolate craving hits!
 date: '2019-02-21'
-image: VeganChocoFudge1.jpg
+image: veganfudge1.jpg
 lead: Guess what? You can curb your sugar cravings with FUDGE. 
 ---
 I am having some serious chocolate cravings, anyone else get those? I whipped up a batch of these Vegan Chocolate Fudge bars and they seriously fixed my craving. These will be staying in my freezer as a quick fix for when another chocolate craving hits! 
  
-![](VeganChocoFudge2.jpg)
+![](veganfudge2.jpg)
 
 With six simple ingredients, these fudge bars are so easy to make and have a subtle coconut flavor, packaed with a rich chocolate taste.
 
