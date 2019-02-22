@@ -5,11 +5,11 @@ date: '2019-02-21'
 image: veganfudge1.jpg
 lead: Guess what? You can curb your sugar cravings with FUDGE. 
 ---
-I am having some serious chocolate cravings, anyone else get those? I whipped up a batch of these Vegan Chocolate Fudge bars and they seriously fixed my craving. These will be staying in my freezer as a quick fix for when another chocolate craving hits! 
+I am having some serious chocolate cravings, anyone else get those? I whipped up a batch of these Vegan Chocolate Fudge bars and they were the perfect fix. These will be staying in my freezer as a quick treat for when another chocolate craving hits! 
  
 ![](veganfudge2.jpg)
 
-With six simple ingredients, these fudge bars are so easy to make and have a subtle coconut flavor, packaed with a rich chocolate taste.
+With six simple ingredients, these fudge bars are so easy to make and have a subtle coconut flavor, packaed with a rich chocolate taste. These bars are vegan, refined sugar-free and can be made paleo if you eliminate the vanilla extract.
 
 ## The Recipe 
 ### February 21, 2019
