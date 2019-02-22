@@ -9,7 +9,7 @@ I am having some serious chocolate cravings, anyone else get those? I whipped up
  
 ![](veganfudge2.jpg)
 
-With six simple ingredients, these fudge bars are so easy to make and have a subtle coconut flavor, packaed with a rich chocolate taste. These bars are vegan, refined sugar-free and can be made paleo if you eliminate the vanilla extract.
+With six simple ingredients, these fudge bars are so easy to make and have a subtle coconut flavor, packed with a rich chocolate taste. These bars are vegan, refined sugar-free and can be made paleo if you eliminate the vanilla extract.
 
 ## The Recipe 
 ### February 21, 2019
