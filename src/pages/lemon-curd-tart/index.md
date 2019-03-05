@@ -5,7 +5,7 @@ date: '2019-03-04'
 image: lemoncurd1.jpg
 lead: Lemon curd is one of the best additions to the world, wouldn't you agree?
 ---
-Ah lemon season. One of the best times of year. I love pastries that add citrus and especially adore a delicious lemon curd. Lemon curd can be tricky with finding that perfect balance between not too sweet and just sharp enough to continue to want more. Well, let me tell you. I practically had to pry myself away from this jar of lemon curd after it came together. I may keep a jar on hand just from now on. 
+Ah lemon season. One of the best times of the year. I love pastries that add citrus and especially adore a delicious lemon curd. Lemon curd can be tricky with finding that perfect balance between not too sweet and just sharp enough to continue to want more. Well, let me tell you that I had to practically pry myself away from this jar of lemon curd after it came together. I may keep a jar on hand just from now on. 
 
 ![](lemoncurd2.jpg)
 
