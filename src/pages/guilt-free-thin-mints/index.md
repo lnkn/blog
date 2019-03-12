@@ -14,7 +14,7 @@ These vegan, crispy, mint chocolate cookies are so easy and guilt-free! With who
 ![](thinmint3.jpg)
 ![](thinmint4.jpg)
 
-You know you want to try these, learn how to below! 
+You know you want to try these Guilt-Free Thin Mints, learn how to make them yourself below! 
 
 ## The Recipe
 ### March 12, 2019
@@ -26,15 +26,15 @@ You know you want to try these, learn how to below!
 
 ## Ingredients
 #### The Cookie
--	2/3 cup **white whole wheat flour**
+-	2/3 cup **white whole-wheat flour**
 -	1/2 cup **cacao powder**
-3/4 teaspoon **peppermint extract**
+- 3/4 teaspoon **peppermint extract**
 -	3 tablespoons **coconut sugar**
--	¼ teaspoon **baking soda**
+-	1/4 teaspoon **baking soda**
 -	2 tablespoons **almond milk**
 -	1 tablespoon **maple syrup**
 -	Pinch of **salt**
--	2 tablespoons + 2 teaspoons melted **coconut oil**
+-	2 tablespoons melted **coconut oil** + 2 extra teaspoons 
 -	1 cup **dark chocolate chunks**
 
 ## Instructions
